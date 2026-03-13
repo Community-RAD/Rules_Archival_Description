@@ -31,7 +31,7 @@ Unless otherwise instructed to do so, give the elements of description in the or
 At all levels of description, always give the title proper. When appropriate, indicate the source of a title proper in a note (see 1.8B2).
 
 ### 1.1B1. Formal title proper. 
-At all levels of description [4], when the chief source of information for a unit being described bears a formal title proper, transcribe it exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. The transcribed title must be common to all the material being described at the level at which it is being described. Give accentuation and other diacritical marks that are present in the chief source of information (see also 1.0G). Capitalize according to appendix A.
+At all levels of description [^4], when the chief source of information for a unit being described bears a formal title proper, transcribe it exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. The transcribed title must be common to all the material being described at the level at which it is being described. Give accentuation and other diacritical marks that are present in the chief source of information (see also 1.0G). Capitalize according to appendix A.
 
 >Register of baptisms in the parish of Saint George in the county of Halifax
 >
@@ -143,7 +143,7 @@ If no formal title appears prominently in, or on, the chief source of informatio
 >(Supplied title and Source of supplied title for an item)
 
 ### 1.1B3. Supplied title proper for a fonds or collection.
-The supplied title proper for a fonds or collection is composed of the nature of the archival unit and the name element [5].
+The supplied title proper for a fonds or collection is composed of the nature of the archival unit and the name element [^5].
 
 #### 1.1B3a. Nature of the archival unit. 
 Supply the word fonds or collection for the nature of the archival unit being described.
@@ -224,7 +224,7 @@ At the series level, if the name(s) of the person(s), family (families) or corpo
 
 *Optionally,* if the series is presented as the highest level of description, include the name(s) of the person(s), family (families), or corporate body (bodies) predominantly responsible for the creation, and/or accumulation and use of the series as a whole as part of the supplied title proper. Record the name(s) in direct order according to the language of the person’s or body’s country of residence or activity.
 
-At the series, file, or item level, if the name(s)[7] of the person(s) and/or the corporate body (bodies) primarily responsible for the form and the intellectual or artistic content of the unit being described is different from the name(s) of the creator of the unit, include the name(s) of the author(s) as part of the supplied title proper.
+At the series, file, or item level, if the name(s)[^7] of the person(s) and/or the corporate body (bodies) primarily responsible for the form and the intellectual or artistic content of the unit being described is different from the name(s) of the creator of the unit, include the name(s) of the author(s) as part of the supplied title proper.
 
 >Correspondence with James Ewings
 >(File forms part of the Arthur Meighen fonds)
@@ -233,7 +233,7 @@ At the series, file, or item level, if the name(s)[7] of the person(s) and/or th
 >(Letter from Ira Dilworth to Emily Carr forms part of the Emily Carr fonds)
 
 #### 1.1B4b. Nature of the archival unit.
-Supply a brief term or phrase that most precisely and concisely characterizes the unit being described. The term or phrase should incorporate the form(s) of material (see Glossary, appendix D)[8] that typifies the unit and reflects the function, activity, transaction, or subject that was the basis of its creation and/or use.[9]
+Supply a brief term or phrase that most precisely and concisely characterizes the unit being described. The term or phrase should incorporate the form(s) of material (see Glossary, appendix D)[^8] that typifies the unit and reflects the function, activity, transaction, or subject that was the basis of its creation and/or use.[^9]
 
 >Minutes of meetings
 >
@@ -277,7 +277,7 @@ At the highest level of description, give the GMD term(s) that pertains to the u
 If the option to give the GMD is chosen, it should be given at each level of description, unless a GMD in a lower level description is identical to that given in a higher level description.
 
 ### 1.1C1. 
-Use general material designation term(s) from the list given below in all descriptions for which general material designations are desired.[10]
+Use general material designation term(s) from the list given below in all descriptions for which general material designations are desired.[^10]
 
 LIST OF GENERAL MATERIAL DESIGNATIONS 
 
@@ -332,7 +332,7 @@ Enclose the qualifier in parentheses. If various forms of a GMD are present, pre
 
 >Abraham Joseph fonds [textual record (some microform), graphic material]
 
-## 1.1D. Parallel titles [12]
+## 1.1D. Parallel titles [^12]
 At all levels of description, when applicable, transcribe parallel titles that appear in conjunction with the formal title proper as instructed in the following rules.
 
 ### 1.1D1.
@@ -511,3 +511,17 @@ When a name associated with responsibility for the item being described is trans
 *Optional addition.* When name(s) of person(s) or corporate body(ies) appear in a statement of responsibility in the form of initials, transcribe the initials as they appear in the chief source of information. Complete the name, if known, in square brackets.
 
 >Geological map of the region north of Lake Huron [GMD] / H. G. S. [Herbert G. Skill]
+
+[^4]: A formal title proper is seldom found at the fonds, series, or collection level.
+
+[^5]: The order of the sub-elements is not prescribed.
+
+[^7]: The name element may be the personal name of the author of the document(s), the name of the position the person holds when authoring and issuing the document(s) in that capacity, or the name of the corporate body, institution, or agency issuing the document(s).
+
+[^8]: Institutions are strongly encouraged to use a standardized vocabulary when supplying form(s) of material as part of the supplied title proper.
+
+[^9]: The supplied title proper should not be mistaken for a statement or abstract of the content of the unit being described; the supplied title proper simply names the unit as succinctly as possible. The contents of the unit, e.g., that of an individual letter, should be described in the Scope and content.
+
+[^10]: In all subsequent examples, other than those illustrating general material designations directly, the designation is indicated by [GMD]. The use of [GMD] in examples does not imply that a designation is required.
+
+[^12]: A parallel title is seldom found at higher levels of description (e.g., fonds, series, or collection).
