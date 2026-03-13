@@ -22,7 +22,7 @@ Enclose information supplied from any other source in square brackets unless ins
 
 ### 1.5A4. Form of presentation. 
 Use full stops (i.e., periods) after SI symbols, only when
-the symbol appears at the end of a sentence.[21]
+the symbol appears at the end of a sentence. [^21]
 
 ### 1.5A5. 
 The rules specified below provide for the use of up to three physical descriptions.
@@ -64,7 +64,7 @@ For material described at an aggregate level of description, e.g., described at 
 >260 photographs
 >Note: Further accruals are expected
 
-*Optionally,* give only the specific material designation preceded by three spaces. Make a note indicating the frequency and volume of accruals.[22] This option should be used in conjunction with the option of 1.4B4. Establish this option at the fonds level and exercise it consistently for all applicable parts.
+*Optionally,* give only the specific material designation preceded by three spaces. Make a note indicating the frequency and volume of accruals. [^22] This option should be used in conjunction with the option of 1.4B4. Establish this option at the fonds level and exercise it consistently for all applicable parts.
 
 >maps
 >Note: Since 1964, ca. 50 maps have been transferred to the archives on an annual basis
@@ -113,3 +113,7 @@ At the item level, give details of accompanying material (see Glossary, appendix
 >1 photograph : b&w ; 6 x 6 cm + 1 identification key
 
 For instructions regarding accompanying material for a particular class of material refer to the .5E rules in the chapter that deals with that class of material.
+
+[^21]: The use of imperial measurements is not advocated by these rules. Therefore, the rules do not give examples, nor accommodate imperial measurements. The choice between imperial and SI should be set as an institutional policy. Do not mix SI and imperial measurements.
+
+[^22]: Combine all notes created in conjunction with 1.4B4 and 1.5B4 in one note (see 1.8B19).
