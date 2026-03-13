@@ -17,7 +17,7 @@ following chapters. For chief sources of information prescribed for each level o
 
 Enclose information supplied from any other source in square brackets unless instructed to do otherwise in specific rules.
 
-## 1.2B. Edition statement [13]
+## 1.2B. Edition statement [^13]
 
 ### 1.2B1. 
 Transcribe the edition statement relating to the item being described. Use abbreviations as instructed in appendix B and numerals as instructed in appendix C.
@@ -62,3 +62,5 @@ In case of doubt about whether a statement of responsibility applies to all edit
 >The death of spring [GMD] / by Ebenezer Scriven ; edited with an introduction by Lucia Podmorski
 
 When describing the first edition, give all statements of responsibility in the Title and statement of responsibility area (see 1.1F).
+
+[^13]: For complex edition statements, refer to rule 1.2 in AACR2R.
