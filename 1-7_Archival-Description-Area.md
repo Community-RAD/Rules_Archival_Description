@@ -5,7 +5,7 @@
 ### 1.7A1. Scope. 
 For all levels of description use this area to present information about the context and content of the unit being described. Record an Administrative history/Biographical sketch for fonds, series, collections, and discrete items.
 
-The Administrative history/Biographical sketch provides information about the external structure or context of the records being described. The Administrative history gives an account of the authority and functional relations and administrative procedures important to an understanding of the context of the records. The Biographical sketch gives an account of the activities important to an understanding of the context of the records of person(s) or family(ies)[24].
+The Administrative history/Biographical sketch provides information about the external structure or context of the records being described. The Administrative history gives an account of the authority and functional relations and administrative procedures important to an understanding of the context of the records. The Biographical sketch gives an account of the activities important to an understanding of the context of the records of person(s) or family(ies)[^24].
 
 The Custodial history gives information about the chain of agencies, officers, or persons, if different from the creator(s), that have exercised custody or control over the records at all stages in their existence.
 
@@ -42,7 +42,7 @@ Citations in the archival description area. In citing a source, always give the 
 
 >Records of Parks Canada (RG 84) / Gabrielle Blais. – Ottawa : Public Archives of Canada, 1985. – (General inventory series / Federal Archives Division).
 
-## 1.7B. Administrative history/Biographical sketch [25]
+## 1.7B. Administrative history/Biographical sketch [^25]
 
 ### 1.7B1. Administrative history.
 
@@ -151,7 +151,7 @@ Record information considered important which cannot be recorded in sub-elements
 
 At the highest level of description give the custodial history of the unit being described as a whole. At each subsequent level of description give the custodial history that pertains to the part being described. The custodial history should be appropriate to the level of description of the unit being described.
 
-Give the history of the custody of the unit being described, i.e., the successive transfers of ownership and custody or control of the material, along with the dates thereof, insofar as it can be ascertained[26].
+Give the history of the custody of the unit being described, i.e., the successive transfers of ownership and custody or control of the material, along with the dates thereof, insofar as it can be ascertained [^26].
 
 When describing the custodial history of a reproduction, include, if ascertainable, information relating to the original material if it is relevant to the creation of the reproduction. If the custodial history is unknown, record that information. When the unit being described is acquired directly from the creator, record this information in the Note Area (see 1.8B12).
 
@@ -167,7 +167,7 @@ When describing the custodial history of a reproduction, include, if ascertainab
 
 At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents.
 
-### 1.7D1. Scope and content for a fonds or collection, or for a series as the highest level of description [27] 
+### 1.7D1. Scope and content for a fonds or collection, or for a series as the highest level of description [^27] 
 Give information on the type of function or activity to which the records comprising the unit being described pertain, the relationship between them, the organization of the records, and their documentary forms.
 
 For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches).
@@ -215,3 +215,11 @@ As applicable, give information on the subject matter and form of the item, the 
 >
 >Mont Ste-Marie Ltd. Subdivision of Part of Lots 34, 35 and 36, Range VII and VIII, Township of Hincks
 >(Title of an item in a series of maps; scope and content is discretionary)
+
+[^24]: For further explanation of the importance of context see Terry Eastwood, ed., The Archival Fonds: from Theory to Practice / Le fonds d’archves: de la théorie à la pratique (Ottawa: Bureau of Canadian Archivists, 1992). While the scope of this text is limited to the archival fonds, the focus placed on contextual information is relevant to series, collections and discrete items as well.
+
+[^25]: If the institution maintains a separate file containing authority records for persons, families and corporate bodies, etc., the biographical information or administrative history may be kept as part of the record for that person, family, or corporate body and, therefore, does not have to be given in the description of the material. This enables the same authority record and the biographical information or administrative history that it contains, to be used for other descriptions and used in finding aids and products, e.g., when the name is associated with a subject index entry, or the same person, family or corporate body occurs in other descriptions. However, if the authority files and descriptive records are not directly linked in an institution's finding aid system and therefore do not automatically show together, it is strongly recommended that the archivist provide an abbreviated sketch. Since the use of an authority file constitutes an option, rule 0.5 applies.
+
+[^26]: Do not confuse information given in the Administrative history/Biographical sketch of the creator of the unit with the history of its custody.
+
+[^27]: For further explanation of the structure and definitions for the scope see Subject Indexing Working Group, Subject Indexing for Archives (Ottawa: Bureau of Canadian Archivists, 1992), pp. 45-90.
