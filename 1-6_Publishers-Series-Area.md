@@ -3,7 +3,7 @@
 ## 1.6A. Preliminary rule
 
 ### 1.6A1. Scope. 
-Use this area only for describing an item bearing a publisher's or artist's series title. Do not record here information about an archival series.[23]
+Use this area only for describing an item bearing a publisher's or artist's series title. Do not record here information about an archival series.[^23]
 
 ### 1.6A2. Punctuation
 For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
@@ -71,3 +71,5 @@ If the item has a designation other than a number, give the designation as found
 >; pl. A
 >
 >; 1971
+
+[^23]: For the distinction between publisher's series and archival series, see the glossary.
