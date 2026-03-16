@@ -7,7 +7,7 @@ See 1.5A1
 
 ### 8.5A2. Punctuation
 For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each occurrence of this area by a full stop, space, dash, space or start a new paragraph. [^5]
+Precede each occurrence of this area by a full stop, space, dash, space or start a new paragraph. [5]
 Precede other physical details by a colon.
 Separate each part of the description of other physical details by a comma, conjunction, or preposition.
 Precede dimensions by a semicolon.
@@ -20,7 +20,7 @@ In presenting information in the physical description area, follow the instructi
 ## 8.5B. Extent of descriptive unit (including specific material designation)
 
 ### 8.5B1 
-At all levels of description, record the extent of the unit being described by giving the number of physical units in arabic numerals followed by one of the specific material designations given below.[^6]
+At all levels of description, record the extent of the unit being described by giving the number of physical units in arabic numerals followed by one of the specific material designations given below.[6]
 
 *Optionally,* if the general material designation is used, omit audio from the specific material designation unless it is needed to make the designation understandable (as with audio videocassette)
 
@@ -90,13 +90,13 @@ Always give the playing time of the unit being described. If the precise duratio
 ## 8.5C. Other physical details
 
 ### 8.5C1. 
-At all levels of description, identify any physical details[^7] other than extent or dimensions, if known and considered important. Give other physical details in the order set out here:
+At all levels of description, identify any physical details[7] other than extent or dimensions, if known and considered important. Give other physical details in the order set out here:
 
 ### 8.5C3. Playing speed. 
 Give the playing speed of the physical unit as follows:
 
 i) *Audio (cassettes and reels).* Give the playing speed of an analog tape in
-centimetres per second (cm/sec).[^8]
+centimetres per second (cm/sec).[8]
 
 > 1 audio reel (30 min.) : 19 cm/sec.
 
@@ -124,7 +124,7 @@ Give information about the way in which the sound is recorded. If the sound reco
 > 2 cylinder recordings (4 min.) : electrical
 
 ### 8.5C5. Groove characteristic. 
-Give information about the direction of the groove cut and its size. If the groove cut is vertical rather than lateral give the term *vertical cut*. If the groove size characteristic of an audio disc is not standard give it as *coarse groove* or *microgroove.*[^9] For cylinder recordings, specify one of the following groove characteristics: coarse groove (100 grooves per inch[^10]), microgroove (200 grooves per inch[^11]), and other.
+Give information about the direction of the groove cut and its size. If the groove cut is vertical rather than lateral give the term *vertical cut*. If the groove size characteristic of an audio disc is not standard give it as *coarse groove* or *microgroove.*[9] For cylinder recordings, specify one of the following groove characteristics: coarse groove (100 grooves per inch[10]), microgroove (200 grooves per inch[11]), and other.
 
 > 1 audio disc (12 min.) : 33 1/3 rpm, coarse groove
 > 
@@ -140,7 +140,7 @@ For audio tapes, give the number of tracks, unless the number of tracks is stand
 > 2 audio tape reels (30 min.) : 4 track, adjacent
 
 ### 8.5C7. Number of sound channels. 
-Give information about the number of sound channels using one or more of the following terms as appropriate: mono, stereo, quad.[^12]
+Give information about the number of sound channels using one or more of the following terms as appropriate: mono, stereo, quad.[12]
 
 > 1 audio disc (56 min.) : 33 1/3 rpm, mono., stereo
 >
@@ -172,7 +172,7 @@ iii) *Audio discs.* Give the diameter of a disc in centimetres to the next highe
 >
 > 7 audio discs (56 min.) : 78 rpm ; 41 cm or smaller
 
-iv) *Cylinder recordings.* Give the dimensions in 0.1 centimetres which differ from the standard sizes.[^13] Give the dimensions in the order: outside diameter, inside diameters at edge[^14] and run-off[^15], and length.
+iv) *Cylinder recordings.* Give the dimensions in 0.1 centimetres which differ from the standard sizes.[13] Give the dimensions in the order: outside diameter, inside diameters at edge[14] and run-off[15], and length.
 
 > 1 cylinder recording (2 min.) : 160 rpm, microgroove ; 5.5 cm x (4.7-4.4 cm) x 10.6 cm
 > 
@@ -193,12 +193,14 @@ Give the type of accompanying material as instructed in 1.5E. See also 8.8B9c.
 
 > 1 audio disc (7 min.) : 78 rpm ; 30 cm + 1 pamphlet
 
-[^5]: This punctuation is repeated for each physical description.
+## END NOTES
 
-[^6]: This list of specific material designations is based on the physical carrier of the unit being described, i.e., the material or object which contains, supports or presents the sound recording. Institutions are encouraged to use the recommended list. However, if an institution chooses not to use this list it should, nevertheless, establish a policy regarding specific material designations.
+[5] This punctuation is repeated for each physical description.
+
+[6] This list of specific material designations is based on the physical carrier of the unit being described, i.e., the material or object which contains, supports or presents the sound recording. Institutions are encouraged to use the recommended list. However, if an institution chooses not to use this list it should, nevertheless, establish a policy regarding specific material designations.
 The following source may be useful in defining additional specific material designations: "Audio Preservation: a Planning Study" (Association for Recorded Sound Collections, Associated Audio Archives Committee, 1988).
 
-[^7]: Table of Technical Specifications and Industry Norms for Sound Recordings*
+[7] Table of Technical Specifications and Industry Norms for Sound Recordings*
 This table indicates which specifications apply to each type of sound recordings. Specifications which are applicable are marked A, those which are not applicable are marked N/A. If there is a norm for a specification and type of recording it follows letter A.
 
 | Specifications | Analogue disc 78 rpm | Disc other speeds | Digital disc | Reel | Cassette | Cartridge |
@@ -215,9 +217,9 @@ This table indicates which specifications apply to each type of sound recordings
 
 *Source: *International Federation of Library Associations and Institutions,* ISBD (NBM) : *International Standard Bibliographic Description for Non-Book Materials,* revised ed., 1987.
 
-[^8]: Note: 19 cm/sec. = 7 ½ ips; 9.5 cm/sec. = 3 3/4 ips; 4.75 cm/sec. = 1 7/8 ips.
+[8] Note: 19 cm/sec. = 7 ½ ips; 9.5 cm/sec. = 3 3/4 ips; 4.75 cm/sec. = 1 7/8 ips.
 
-[^9]: Standard and non-standard groove characteristics are as follows:
+[9] Standard and non-standard groove characteristics are as follows:
 
 | Playing speed | Standard: | Non-standard: |
 | --- | --- | --- |
@@ -226,20 +228,22 @@ This table indicates which specifications apply to each type of sound recordings
 | 33 1/3 rpm | micro | coarse, transcription, other (specify) |
 | 16 2/3 rpm | micro | coarse, transcription, other (specify) |
 
-[^10]: For example, Edison 2-minute cylinders.
+[10] For example, Edison 2-minute cylinders.
 
-[^11]: For example, Edison 4-minute cylinders.
+[11] For example, Edison 4-minute cylinders.
 
-[^12]: Use *mono*. for 1 channel; *stereo*. for 2 channels; *quad*. for 4 channels. If the unit being described indicates "hi-fi", use *stereo.*
+[12] Use *mono*. for 1 channel; *stereo*. for 2 channels; *quad*. for 4 channels. If the unit being described indicates "hi-fi", use *stereo.*
 
-[^13]: The standard sizes for cylinder recordings are as follows:
+[13] The standard sizes for cylinder recordings are as follows:
 
+| &nbsp; | &nbsp; |
+| --- | --- |
 | 5.5 cm | Outside diameter |
 | 4.7 cm | Inside diameter at edge |
 | 4.4 cm | Inside diameter a run-off |
 | 10.5-10.8 cm | Length | 
 
-[^14]: Edge is the end of the larger inside diameter.
+[14] Edge is the end of the larger inside diameter.
 
-[^15]: Run-off is the end of the smaller inside diameter.
+[15] Run-off is the end of the smaller inside diameter.
 
