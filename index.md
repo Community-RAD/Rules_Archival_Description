@@ -120,7 +120,7 @@
 
 [7.0 General Rules](RAD/7-0_General-Rules.md)
 
-[7.1 Title and Statement of Responsibility Area](RAD/7-1_Title-Statement-Responsibility-Area.md)
+[7.1 Title and Statement of Responsibility Area](RAD/7-1_Title-Statement-Responsibility.md)
 
 [7.2 Edition Area](RAD/7-2_Edition-Area.md)
 
