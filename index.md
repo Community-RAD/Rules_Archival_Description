@@ -38,39 +38,39 @@
 
 [3.3 Class of Material Specific Details Area](RAD/3-3_Class-Materials-Details-Area.md)
 
-[3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area]
+[3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/3-4_Dates-Area.md)
 
-[3.5 Physical Description Area]
+[3.5 Physical Description Area](RAD/3-5_Physical-Description-Area.md)
 
-[3.6 Publisher's Series Area]
+[3.6 Publisher's Series Area](RAD/3-6_Pubishers-Series-Area.md)
 
-[3.7 Archival Description Area]
+[3.7 Archival Description Area](RAD/3-7_Archival-Description-Area.md)
 
-[3.8 Note Area]
+[3.8 Note Area](RAD/3-8_Note-Area.md)
 
-[3.9 Standard Number Area]
+[3.9 Standard Number Area](RAD/Standard-Number-Area.md)
 
 ### CHAPTER 4: GRAPHIC MATERIALS
 
-[4.0 General Rules]
+[4.0 General Rules](RAD/4-0_General-Rules.md)
 
-[4.1 Title and Statement of Responsibility Area]
+[4.1 Title and Statement of Responsibility Area](RAD/4-1_Title-Statement-Responsibility-Area.md)
 
-[4.2 Edition Area]
+[4.2 Edition Area](RAD/4-2_Edition-Area.md)
 
-[4.3 Class of Material Specific Details Area]
+[4.3 Class of Material Specific Details Area](RAD/4-3_Class-Material-Details-Area.md)
 
-[4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area]
+[4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/Dates-Area.md)
 
-[4.5 Physical Description Area]
+[4.5 Physical Description Area](RAD/Physical-Description-Area.md)
 
-[4.6 Publisher's Series Area]
+[4.6 Publisher's Series Area](RAD/4-6_Publishers-Series-Area.md)
 
-[4.7 Archival Description Area]
+[4.7 Archival Description Area](RAD/4-7_Archival-Description-Area.md)
 
-[4.8 Note Area]
+[4.8 Note Area](RAD/4-8_Note-Area.md)
 
-[4.9 Standard Number Area]
+[4.9 Standard Number Area](RAD/4-9_Standard-Number-Area.md)
 
 ### CHAPTER 5: CARTOGRAPHIC MATERIALS
 
@@ -96,69 +96,69 @@
 
 ### CHAPTER 6: ARCHITECTURAL AND TECHNICAL DRAWINGS
 
-[6.0 General Rules]
+[6.0 General Rules](RAD/6-0_General-Rules.md)
 
-[6.1 Title and Statement of Responsibility Area]
+[6.1 Title and Statement of Responsibility Area](RAD/6-1_Title-Statement-Responsibility-Area.md)
 
-[6.2 Edition Area]
+[6.2 Edition Area](RAD/6-2_Edition-Area.md)
 
-[6.3 Scale Area]
+[6.3 Scale Area](RAD/Scale-Area.md)
 
-[6.4 Date(s) of Creation, Including Publication, Distribution, etc., Area]
+[6.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/6-4_Dates-Area.md)
 
-[6.5 Physical Description Area]
+[6.5 Physical Description Area](RAD/6-5_Physical-Description-Area.md)
 
-[6.6 Publisher's Series Area]
+[6.6 Publisher's Series Area](RAD/6-6_Publisher-Series-Area.md)
 
-[6.7 Archival Description Area]
+[6.7 Archival Description Area](RAD/6-7_Archival-Description-Area.md)
 
-[6.8 Note Area]
+[6.8 Note Area](RAD/6-8_Note-Area.md)
 
-[6.9 Standard Number Area]
+[6.9 Standard Number Area](RAD/6-9_Standard-Number-Area.md)
 
 ### CHAPTER 7: MOVING IMAGES
 
-[7.0 General Rules]
+[7.0 General Rules](RAD/7-0_General-Rules.md)
 
-[7.1 Title and Statement of Responsibility Area]
+[7.1 Title and Statement of Responsibility Area](RAD/Title-Statement-Responsibility-Area.md)
 
-[7.2 Edition Area]
+[7.2 Edition Area](RAD/7-2_Edition-Area.md)
 
-[7.3 Class of Material Specific Details Area]
+[7.3 Class of Material Specific Details Area](RAD/7-3_Class-Material-Details-Area.md)
 
-[7.4 Date(s) of Creation, Including Publication, Distribution, etc., Area]
+[7.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/7-4_Dates-Area.md)
 
-[7.5 Physical Description Area]
+[7.5 Physical Description Area](RAD/7-5_Physical-Description-Area.md)
 
-[7.6 Publisher's Series Area]
+[7.6 Publisher's Series Area](RAD/7-6_Publishers-Series-Area.md)
 
-[7.7 Archival Description Area]
+[7.7 Archival Description Area](RAD/7-7_Archival-Description-Area.md)
 
-[7.8 Note Area]
+[7.8 Note Area](RAD/7-8_Note-Area.md)
 
-[7.9 Standard Number Area]
+[7.9 Standard Number Area](RAD/7-9_Standard-Number-Area.md)
 
 ### CHAPTER 8: SOUND RECORDINGS
 
-[8.0 General Rules]
+[8.0 General Rules](RAD/8-0_General-Rules.md)
 
-[8.1 Title and Statement of Responsibility Area]
+[8.1 Title and Statement of Responsibility Area](RAD/8-1_Title-Statement-Responsibility-Area.md)
 
-[8.2 Edition Area]
+[8.2 Edition Area](RAD/8-2_Edition-Area.md)
 
-[8.3 Class of Material Specific Details Area]
+[8.3 Class of Material Specific Details Area](RAD/8-3_Class-Material-Details-Area.md)
 
-[8.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area]
+[8.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area](RAD/8-4_Dates-Area.md)
 
-[8.5 Physical Description Area]
+[8.5 Physical Description Area](RAD/8-5_Physical-Description-Area.md)
 
-[8.6 Publisher's Series Area]
+[8.6 Publisher's Series Area](RAD/8-6_Publishers-Series-Area.md)
 
-[8.7 Archival Description Area]
+[8.7 Archival Description Area](RAD/8-7_Archival-Description-Area.md)
 
-[8.8 Note Area]
+[8.8 Note Area](RAD/8-8_Note-Area.md)
 
-[8.9 Standard Number Area]
+[8.9 Standard Number Area](RAD/8-9_Standard-Number-Area.md)
 
 ### CHAPTER 9: RECORDS IN ELECTRONIC FORM
 
