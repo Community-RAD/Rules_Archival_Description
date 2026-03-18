@@ -124,7 +124,7 @@ main-sidebar:
       - title: "7.9 Standard Number Area"
         url: /RAD/7-9/
 
-   - title: "Chapter 8: Sound Recordings"
+  - title: "Chapter 8: Sound Recordings"
     children:
       - title: "8.0 General Rules"
         url: /RAD/8-0/
