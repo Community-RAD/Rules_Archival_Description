@@ -11,10 +11,10 @@ This site hosts a number of discussion forums for archivists to share how they u
 
 ## Featured Forums
 
-### [Examples](/forums/examples/)
+### [Examples](examples.md)
 The purpose of this forum is for people to share examples of how they have applied RAD in their work. This may be include more creative approaches or those directly following guidelines. 
 
-### [Reconciliation and Indigenizing Archives](/forums/reconciliation/)
+### [Reconciliation and Indigenizing Archives](reconciliation.md)
 The Truth and Reconciliation Commission (2015) Calls to Action includes a call to "review archival policies and best practices"[^1] in collaboration with Indigenous communities. While this site and these forums by no means fulfill our professional responsibilities to fulfill these calls to action, it is essential that we keep reconciliation at the forefront of all discussions pertaining archival practice. 
 
 ## Key Issues
