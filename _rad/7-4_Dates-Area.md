@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+title: "7.4 MOVING IMAGES, DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
 permalink: /7-4/
 toc: true
 toc_label: "On this page"
