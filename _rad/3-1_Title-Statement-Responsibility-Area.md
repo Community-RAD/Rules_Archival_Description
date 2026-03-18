@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "3.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+permalink: /3-1/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 3.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 3.1A. Preliminary rule
 
