@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Community Rules for Archival Description (RAD)"
+permalink: /rad/
 ---
 
 # RULES FOR ARCHIVAL DESCRIPTION
