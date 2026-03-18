@@ -21,7 +21,10 @@ layout: default
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
 
-    {{ content }}
+{% capture search_content %}
+  {{ content }}
+{% endcapture %}
+{{ search_content }}
 
     {%- assign search_provider = site.search_provider | default: "lunr" -%}
     {%- case search_provider -%}
