@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+title: "1.4 GENERAL RULES FOR DESCRIPTION, DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
 permalink: /1-4/
 toc: true
 toc_label: "On this page"
