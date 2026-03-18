@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.6. PUBLISHER'S SERIES AREA"
+title: "1.6. GENERAL RULES FOR DESCRIPTION, PUBLISHER'S SERIES AREA"
 permalink: /1-6/
 toc: true
 toc_label: "On this page"
