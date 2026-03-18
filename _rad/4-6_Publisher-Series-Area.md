@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "4.6 PUBLISHER'S SERIES AREA [^6]"
+title: "4.6 PUBLISHER'S SERIES AREA"
+permalink: /4-6/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
-# 4.6 PUBLISHER'S SERIES AREA [^6]
-
-## 4.6A. Preliminary rule
+## 4.6A. Preliminary rule [^6]
 
 ### 4.6A1. Scope
 See 1.6A1.
