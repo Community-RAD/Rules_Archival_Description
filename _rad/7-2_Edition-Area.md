@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "7.2 EDITION AREA"
+permalink: /7-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 7.2 EDITION AREA
 
 ## 7.2A. Preliminary rule
 
