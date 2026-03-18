@@ -3,7 +3,7 @@ layout: single
 title: "Reconciliation and Indigenizing Archives"
 permalink: /forums/reconciliation/
 sidebar:
-  nav: "special-sidebar"
+  nav: "forum-sidebar"
 sidebar_position: left
 ---
 
