@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.7 ARCHIVAL DESCRIPTION AREA"
+title: "3.7 TEXTUAL RECORDS, ARCHIVAL DESCRIPTION AREA"
 permalink: /3-7/
 toc: true
 toc_label: "On this page"
