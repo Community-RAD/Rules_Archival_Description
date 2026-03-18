@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "2.0. GENERAL RULE"
+permalink: /2-0/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 2.0. GENERAL RULE
 
 ## 2.0A. Scope. 
 
