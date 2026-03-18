@@ -3,3 +3,5 @@ main:
     url: /
   - title: "RAD Chapters"
     url: /rad-chapters/
+  - title: "Search"
+    url: /search/
