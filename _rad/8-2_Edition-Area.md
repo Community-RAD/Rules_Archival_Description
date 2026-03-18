@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "8.2 EDITION AREA"
+permalink: /8-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 8.2 EDITION AREA
 
 ## 8.2A. Preliminary rule
 
