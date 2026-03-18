@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+title: "7.3 MOVING IMAGES, CLASS OF MATERIAL SPECIFIC DETAILS AREA"
 permalink: /7-3/
 toc: true
 toc_label: "On this page"
