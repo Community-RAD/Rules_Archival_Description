@@ -1,6 +1,10 @@
 ---
 layout: single
 title: "1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+permalink: /1-1/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 # 1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
