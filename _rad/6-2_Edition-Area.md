@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.2 EDITION AREA"
+title: "6.2 ARCHITECTURAL AND TECHNICAL DRAWINGS, EDITION AREA"
 permalink: /6-2/
 toc: true
 toc_label: "On this page"
