@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+title: "3.4 TEXTUAL RECORDS, DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
 permalink: /3-4/
 toc: true
 toc_label: "On this page"
