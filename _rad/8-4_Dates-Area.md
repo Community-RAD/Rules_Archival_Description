@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "8.4 DATE(S) OF CREATION, INCLUDING BROADCAST, PUBLICATION, DISTRIBUTION, ETC., AREA"
+permalink: /8-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 8.4 DATE(S) OF CREATION, INCLUDING BROADCAST, PUBLICATION, DISTRIBUTION, ETC., AREA
 
 ## 8.4A. Preliminary rule
 
