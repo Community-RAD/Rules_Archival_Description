@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "1.0 GENERAL RULES"
+permalink: /1-0/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
