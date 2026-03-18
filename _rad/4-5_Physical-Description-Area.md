@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.5 PHYSICAL DESCRIPTION AREA "
+title: "4.5 GRAPHIC MATERIALS, PHYSICAL DESCRIPTION AREA "
 permalink: /4-5/
 toc: true
 toc_label: "On this page"
