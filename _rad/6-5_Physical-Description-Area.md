@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.5 PHYSICAL DESCRIPTION AREA "
+title: "6.5 ARCHITECTURAL AND TECHNICAL DRAWINGS, PHYSICAL DESCRIPTION AREA "
 permalink: /6-5/
 toc: true
 toc_label: "On this page"
