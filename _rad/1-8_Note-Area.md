@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.8. NOTE AREA"
+title: "1.8. GENERAL RULES FOR DESCRIPTION, NOTE AREA"
 permalink: /1-8/
 toc: true
 toc_label: "On this page"
