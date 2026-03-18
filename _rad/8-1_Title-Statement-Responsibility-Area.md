@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "8.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+permalink: /8-1/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 8.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 8.1A. Preliminary rule
 
