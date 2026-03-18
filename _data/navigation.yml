@@ -7,25 +7,25 @@ main-sidebar:
   - title: "Chapter 1: General Rules for Description"
     children:
       - title: "1.0 General Rules"
-        url: /RAD/1-0/
+        url: /1-0/
       - title: "1.1 Title and Statement of Responsibility Area"
-        url: /RAD/1-1/
+        url: /1-1/
       - title: "1.2 Edition Area"
-        url: /RAD/1-2/
+        url: /1-2/
       - title: "1.3 Class of Material Specific Details Area"
-        url: /RAD/1-3/
+        url: /1-3/
       - title: "1.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
-        url: /RAD/1-4/
+        url: /1-4/
       - title: "1.5 Physical Description Area"
-        url: /RAD/1-5/
+        url: /1-5/
       - title: "1.6 Publisher's Series Area"
-        url: /RAD/1-6/
+        url: /1-6/
       - title: "1.7 Archival Description Area"
-        url: /RAD/1-7/
+        url: /1-7/
       - title: "1.8 Note Area"
-        url: /RAD/1-8/
+        url: /1-8/
       - title: "1.9 Standard Number Area"
-        url: /RAD/1-9/
+        url: /1-9/
         
   - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
     children:
