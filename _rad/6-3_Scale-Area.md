@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.3 SCALE AREA"
+title: "6.3 ARCHITECTURAL AND TECHNICAL DRAWINGS, SCALE AREA"
 permalink: /6-3/
 toc: true
 toc_label: "On this page"
