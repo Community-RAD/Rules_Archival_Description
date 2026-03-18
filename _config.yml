@@ -9,12 +9,17 @@ plugins:
   - jekyll-include-cache
   - jekyll-relative-links
 
+collections:
+  rad:
+    output: true
+    permalink: /RAD/:path/
+
 defaults:
   - scope:
-      path: "RAD"
+      path: ""
+      type: rad
     values:
       layout: single
-      permalink: /RAD/:basename/
 
 relative_links:
   enabled: true
