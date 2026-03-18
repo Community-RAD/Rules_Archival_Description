@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "7.4 DATE(S) OF CREATION, INCLUDING PUBLICATION[^6], DISTRIBUTION, ETC., AREA"
+title: "7.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+permalink: /7-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
-# 7.4 DATE(S) OF CREATION, INCLUDING PUBLICATION[^6], DISTRIBUTION, ETC., AREA
-
-## 7.4A. Preliminary rule
+## 7.4A. Preliminary rule[^6]
 
 ### 7.4A1. Scope
 See 1.4A1.
