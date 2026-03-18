@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+title: "1.1 GENERAL RULES FOR DESCRIPTION, TITLE AND STATEMENT OF RESPONSIBILITY AREA"
 permalink: /1-1/
 toc: true
 toc_label: "On this page"
