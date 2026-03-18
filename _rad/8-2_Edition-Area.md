@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.2 EDITION AREA"
+title: "8.2 SOUND RECORDINGS, EDITION AREA"
 permalink: /8-2/
 toc: true
 toc_label: "On this page"
