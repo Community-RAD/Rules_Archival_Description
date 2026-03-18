@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "1.8. NOTE AREA "
+title: "1.8. NOTE AREA"
+permalink: /1-8/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 1.8. NOTE AREA 
 
 ## 1.8A. Preliminary rule
 
