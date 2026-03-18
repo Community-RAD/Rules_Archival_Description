@@ -1,5 +1,5 @@
 main:
   - title: "Home"
     url: /
-  - title: "RAD"
-    url: /rad/
+  - title: "RAD Chapters"
+    url: /rad-chapters/
