@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.2 EDITION AREA"
+title: "7.2 MOVING IMAGES, EDITION AREA"
 permalink: /7-2/
 toc: true
 toc_label: "On this page"
