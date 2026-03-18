@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "1.3. CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+permalink: /1-3/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 1.3. CLASS OF MATERIAL SPECIFIC DETAILS AREA
 
 ## 1.3A. Preliminary rule
 
