@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.8 NOTE AREA"
+title: "3.8 TEXTUAL RECORDS, NOTE AREA"
 permalink: /3-8/
 toc: true
 toc_label: "On this page"
