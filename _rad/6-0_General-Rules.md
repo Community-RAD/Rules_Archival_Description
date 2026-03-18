@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.0 GENERAL RULES"
+title: "6.0 ARCHITECTURAL AND TECHNICAL DRAWINGS, GENERAL RULES"
 permalink: /6-0/
 toc: true
 toc_label: "On this page"
