@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "3.9 STANDARD NUMBER AREA"
+permalink: /3-9/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 3.9 STANDARD NUMBER AREA
 
 ## 3.9A. Preliminary rule
 
