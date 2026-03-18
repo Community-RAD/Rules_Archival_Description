@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "9.0 GENERAL RULES"
+permalink: /9-0/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 9.0 GENERAL RULES
 
 ## 9.0A. Preliminary rule
 
