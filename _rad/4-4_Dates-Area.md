@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "4.4 DATE(S) OF CREATION INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+permalink: /4-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 4.4 DATE(S) OF CREATION INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA
 
 ## 4.4A. Preliminary rule
 ### 4.4A1. Scope
