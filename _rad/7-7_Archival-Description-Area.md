@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.7 ARCHIVAL DESCRIPTION AREA "
+title: "7.7 MOVING IMAGES, ARCHIVAL DESCRIPTION AREA "
 permalink: /7-7/
 toc: true
 toc_label: "On this page"
