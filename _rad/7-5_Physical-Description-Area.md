@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.5 PHYSICAL DESCRIPTION AREA"
+title: "7.5 MOVING IMAGES, PHYSICAL DESCRIPTION AREA"
 permalink: /7-5/
 toc: true
 toc_label: "On this page"
