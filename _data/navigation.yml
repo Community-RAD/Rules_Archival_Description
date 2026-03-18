@@ -30,119 +30,119 @@ main-sidebar:
   - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
     children:
       - title: "2.0 General Rule"
-        url: RAD/2-0/
+        url: /2-0/
  
   - title: "Chapter 3: Textual Records"
     children:
       - title: "3.0 General Rules"
-        url: /RAD/3-0/
+        url: /3-0/
       - title: "3.1 Title and Statement of Responsibility Area"
-        url: /RAD/3-1/
+        url: /3-1/
       - title: "3.2 Edition Area"
-        url: /RAD/3-2/
+        url: /3-2/
       - title: "3.3 Class of Material Specific Details Area"
-        url: /RAD/3-3/
+        url: /3-3/
       - title: "3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
-        url: /RAD/3-4/
+        url: /3-4/
       - title: "3.5 Physical Description Area"
-        url: /RAD/3-5/
+        url: /3-5/
       - title: "3.6 Publisher's Series Area"
-        url: /RAD/3-6/
+        url: /3-6/
       - title: "3.7 Archival Description Area"
-        url: /RAD/3-7/
+        url: /3-7/
       - title: "3.8 Note Area"
-        url: /RAD/3-8/
+        url: /3-8/
       - title: "3.9 Standard Number Area"
-        url: /RAD/3-9/
+        url: /3-9/
         
   - title: "Chapter 4: Graphic Materials"
     children:
       - title: "4.0 General Rules"
-        url: /RAD/4-0/
+        url: /4-0/
       - title: "4.1 Title and Statement of Responsibility Area"
-        url: /RAD/4-1/
+        url: /4-1/
       - title: "4.2 Edition Area"
-        url: /RAD/4-2/
+        url: /4-2/
       - title: "4.3 Class of Material Specific Details Area"
-        url: /RAD/4-3/
+        url: /4-3/
       - title: "4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
-        url: /RAD/4-4/
+        url: /4-4/
       - title: "4.5 Physical Description Area"
-        url: /RAD/4-5/
+        url: /4-5/
       - title: "4.6 Publisher's Series Area"
-        url: /RAD/4-6/
+        url: /4-6/
       - title: "4.7 Archival Description Area"
-        url: /RAD/4-7/
+        url: /4-7/
       - title: "4.8 Note Area"
-        url: /RAD/4-8/
+        url: /4-8/
       - title: "4.9 Standard Number Area"
-        url: /RAD/4-9/
+        url: /4-9/
         
   - title: "Chapter 6: Architectural and Technical Drawings"
     children:
       - title: "6.0 General Rules"
-        url: /RAD/6-0/
+        url: /6-0/
       - title: "6.1 Title and Statement of Responsibility Area"
-        url: /RAD/6-1/
+        url: /6-1/
       - title: "6.2 Edition Area"
-        url: /RAD/6-2/
+        url: /6-2/
       - title: "6.3 Scale Area"
-        url: /RAD/6-3/
+        url: /6-3/
       - title: "6.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
-        url: /RAD/6-4/
+        url: /6-4/
       - title: "6.5 Physical Description Area"
-        url: /RAD/6-5/
+        url: /6-5/
       - title: "6.6 Publisher's Series Area"
-        url: /RAD/6-6/
+        url: /6-6/
       - title: "6.7 Archival Description Area"
-        url: /RAD/6-7/
+        url: /6-7/
       - title: "6.8 Note Area"
-        url: /RAD/6-8/
+        url: /6-8/
       - title: "6.9 Standard Number Area"
-        url: /RAD/6-9/
+        url: /6-9/
 
   - title: "Chapter 7: Moving Images"
     children:
       - title: "7.0 General Rules"
-        url: /RAD/7-0/
+        url: /7-0/
       - title: "7.1 Title and Statement of Responsibility Area"
-        url: /RAD/7-1/
+        url: /7-1/
       - title: "7.2 Edition Area"
-        url: /RAD/7-2/
+        url: /7-2/
       - title: "7.3 Class of Material Specific Details Area"
-        url: /RAD/7-3/
+        url: /7-3/
       - title: "7.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
-        url: /RAD/7-4/
+        url: /7-4/
       - title: "7.5 Physical Description Area"
-        url: /RAD/7-5/
+        url: /7-5/
       - title: "7.6 Publisher's Series Area"
-        url: /RAD/7-6/
+        url: /7-6/
       - title: "7.7 Archival Description Area"
-        url: /RAD/7-7/
+        url: /7-7/
       - title: "7.8 Note Area"
-        url: /RAD/7-8/
+        url: /7-8/
       - title: "7.9 Standard Number Area"
-        url: /RAD/7-9/
+        url: /7-9/
 
   - title: "Chapter 8: Sound Recordings"
     children:
       - title: "8.0 General Rules"
-        url: /RAD/8-0/
+        url: /8-0/
       - title: "8.1 Title and Statement of Responsibility Area"
-        url: /RAD/8-1/
+        url: /8-1/
       - title: "8.2 Edition Area"
-        url: /RAD/8-2/
+        url: /8-2/
       - title: "8.3 Class of Material Specific Details Area"
-        url: /RAD/8-3/
+        url: /8-3/
       - title: "8.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
-        url: /RAD/8-4/
+        url: /8-4/
       - title: "8.5 Physical Description Area"
-        url: /RAD/8-5/
+        url: /8-5/
       - title: "8.6 Publisher's Series Area"
-        url: /RAD/8-6/
+        url: /8-6/
       - title: "8.7 Archival Description Area"
-        url: /RAD/8-7/
+        url: /8-7/
       - title: "8.8 Note Area"
-        url: /RAD/8-8/
+        url: /8-8/
       - title: "8.9 Standard Number Area"
-        url: /RAD/8-9/       
+        url: /8-9/       
