@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+title: "3.1 TEXTUAL RECORDS, TITLE AND STATEMENT OF RESPONSIBILITY AREA"
 permalink: /3-1/
 toc: true
 toc_label: "On this page"
