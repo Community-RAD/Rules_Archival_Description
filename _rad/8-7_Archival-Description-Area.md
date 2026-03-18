@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.7 ARCHIVAL DESCRIPTION AREA"
+title: "8.7 SOUND RECORDINGS, ARCHIVAL DESCRIPTION AREA"
 permalink: /8-7/
 toc: true
 toc_label: "On this page"
