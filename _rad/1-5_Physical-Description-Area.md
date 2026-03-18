@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.5. PHYSICAL DESCRIPTION AREA "
+title: "1.5. GENERAL RULES FOR DESCRIPTION, PHYSICAL DESCRIPTION AREA "
 permalink: /1-5/
 toc: true
 toc_label: "On this page"
