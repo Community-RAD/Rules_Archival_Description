@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.4 DATE(S) OF CREATION INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+title: "4.4 GRAPHIC MATERIALS, DATE(S) OF CREATION INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
 permalink: /4-4/
 toc: true
 toc_label: "On this page"
