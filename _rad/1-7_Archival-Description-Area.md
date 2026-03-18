@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.7. ARCHIVAL DESCRIPTION AREA"
+title: "1.7. GENERAL RULES FOR DESCRIPTION, ARCHIVAL DESCRIPTION AREA"
 permalink: /1-7/
 toc: true
 toc_label: "On this page"
