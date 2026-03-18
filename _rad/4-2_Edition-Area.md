@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "4.2 EDITION AREA"
+permalink: /4-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 4.2 EDITION AREA
 
 ## 4.2A. Preliminary rule
 
