@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Community Rules for Archival Description (RAD)"
+title: "Welcome to the Community Rules for Archival Description (RAD)"
 permalink: /
 ---
 
