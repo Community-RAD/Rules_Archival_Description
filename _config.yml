@@ -29,6 +29,12 @@ defaults:
         nav: "main-sidebar"
       sidebar_position: left
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      comments: true
+
 relative_links:
   enabled: true
   collections: false
