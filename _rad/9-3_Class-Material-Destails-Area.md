@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "9.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+title: "9.3 RECORDS IN ELECTRONIC FORM, CLASS OF MATERIAL SPECIFIC DETAILS AREA"
 permalink: /9-3/
 toc: true
 toc_label: "On this page"
