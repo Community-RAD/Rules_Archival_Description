@@ -1,6 +1,10 @@
 ---
 layout: single
 title: "1.2 EDITION AREA"
+permalink: /1-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
 
 # 1.2 EDITION AREA
