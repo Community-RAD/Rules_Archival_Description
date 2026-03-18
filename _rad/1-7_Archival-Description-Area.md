@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "1.7. ARCHIVAL DESCRIPTION AREA "
+title: "1.7. ARCHIVAL DESCRIPTION AREA"
+permalink: /1-7/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 1.7. ARCHIVAL DESCRIPTION AREA 
 
 ## 1.7A. Preliminary rule
 
