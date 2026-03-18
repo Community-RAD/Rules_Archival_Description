@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.6 PUBLISHER'S SERIES AREA"
+title: "6.6 ARCHITECTURAL AND TECHNICAL DRAWINGS, PUBLISHER'S SERIES AREA"
 permalink: /6-6/
 toc: true
 toc_label: "On this page"
