@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.2 EDITION AREA"
+title: "4.2 GRAPHIC MATERIALS, EDITION AREA"
 permalink: /4-2/
 toc: true
 toc_label: "On this page"
