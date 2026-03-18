@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.9 STANDARD NUMBER AREA"
+title: "7.9 MOVING IMAGES, STANDARD NUMBER AREA"
 permalink: /7-9/
 toc: true
 toc_label: "On this page"
