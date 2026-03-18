@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "3.0 GENERAL RULES"
+permalink: /3-0/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 3.0 GENERAL RULES
 
 ## 3.0A. Preliminary rule
 
