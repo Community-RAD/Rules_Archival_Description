@@ -43,6 +43,7 @@ search_full_content: true
 # Giscus Comments
 comments:
   provider: "giscus"
+  enabled: true
   giscus:
     repo: "gphippard/Rules_Archival_Description"
     repo_id: "R_kgDONMFzow"
