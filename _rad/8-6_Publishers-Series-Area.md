@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.6 PUBLISHER'S SERIES AREA"
+title: "8.6 SOUND RECORDINGS, PUBLISHER'S SERIES AREA"
 permalink: /8-6/
 toc: true
 toc_label: "On this page"
