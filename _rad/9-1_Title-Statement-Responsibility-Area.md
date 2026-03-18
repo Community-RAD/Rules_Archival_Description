@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "9.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+title: "9.1 RECORDS IN ELECTRONIC FORM, TITLE AND STATEMENT OF RESPONSIBILITY AREA"
 permalink: /9-1/
 toc: true
 toc_label: "On this page"
