@@ -1,4 +1,6 @@
 main:
+  - title: "Browse by Chapter"
+    url: /chapter/
   - title: "Browse by Section"
     url: /section/
   - title: "Forums"
