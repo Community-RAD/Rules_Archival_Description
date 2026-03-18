@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "6.8 NOTE AREA"
+permalink: /6-8/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 6.8 NOTE AREA
 
 ## 6.8A. Preliminary rule
 
