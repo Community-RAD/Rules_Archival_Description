@@ -7,8 +7,6 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-# 1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
-
 ## 1.1A. Preliminary rule
 
 ### 1.1A1. Scope.
