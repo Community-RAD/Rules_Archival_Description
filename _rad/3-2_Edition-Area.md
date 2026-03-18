@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.2 EDITION AREA"
+title: "3.2 TEXTUAL RECORDS, EDITION AREA"
 permalink: /3-2/
 toc: true
 toc_label: "On this page"
