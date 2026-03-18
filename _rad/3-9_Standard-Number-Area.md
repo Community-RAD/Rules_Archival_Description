@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.9 STANDARD NUMBER AREA"
+title: "3.9 TEXTUAL RECORDS, STANDARD NUMBER AREA"
 permalink: /3-9/
 toc: true
 toc_label: "On this page"
