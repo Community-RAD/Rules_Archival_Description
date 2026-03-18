@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.3. CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+title: "1.3. GENERAL RULES FOR DESCRIPTION, CLASS OF MATERIAL SPECIFIC DETAILS AREA"
 permalink: /1-3/
 toc: true
 toc_label: "On this page"
