@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.5 PHYSICAL DESCRIPTION AREA"
+title: "8.5 SOUND RECORDINGS, PHYSICAL DESCRIPTION AREA"
 permalink: /8-5/
 toc: true
 toc_label: "On this page"
