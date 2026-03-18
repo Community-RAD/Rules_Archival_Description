@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "8.0 GENERAL RULES"
+permalink: /8-0/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 8.0 GENERAL RULES
 
 ## 8.0A. Preliminary rule
 
