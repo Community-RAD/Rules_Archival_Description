@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.8 NOTE AREA"
+title: "7.8 MOVING IMAGES, NOTE AREA"
 permalink: /7-8/
 toc: true
 toc_label: "On this page"
