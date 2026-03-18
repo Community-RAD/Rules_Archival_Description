@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "1.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+permalink: /1-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 1.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA
 
 ## 1.4A. Preliminary rule
 
