@@ -13,5 +13,6 @@ relative_links:
   enabled: true
   collections: false
 
+navigation: true
 markdown: kramdown
 highlighter: rouge
