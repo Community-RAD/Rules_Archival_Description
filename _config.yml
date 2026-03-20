@@ -50,7 +50,7 @@ comments:
     repo_id: "R_kgDONMFzow"
     category: "General"
     category_id: "DIC_kwDONMFzo84C4p79"
-    discussion_term: "pathname"
+    discussion_term: "og:title"
     strict: 0
     reactions_enabled: 1
     emit_metadata: 0
