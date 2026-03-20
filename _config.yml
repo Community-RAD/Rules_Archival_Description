@@ -39,6 +39,7 @@ relative_links:
 navigation: true
 search: true
 search_full_content: true
+atom_feed: hide 
 
 # Giscus Comments
 comments:
