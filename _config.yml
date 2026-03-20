@@ -49,20 +49,19 @@ comments:
   provider: "giscus"
   enabled: true
   force: true
-
-giscus:
-  repo: "gphippard/Rules_Archival_Description"
-  repo_id: "R_kgDONMFzow"
-  category: "General"
-  category_id: "DIC_kwDONMFzo84C4p79"
-  discussion_term: "og:title"
-  strict: 0
-  reactions_enabled: 1
-  emit_metadata: 0
-  input_position: "bottom"
-  theme: "preferred_color_scheme"
-  lang: "en"
-  lazy: true
+  giscus:
+    repo: "gphippard/Rules_Archival_Description"
+    repo_id: "R_kgDONMFzow"
+    category: "General"
+    category_id: "DIC_kwDONMFzo84C4p79"
+    discussion_term: "og:title"
+    strict: 0
+    reactions_enabled: 1
+    emit_metadata: 0
+    input_position: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "en"
+    lazy: true
 
 markdown: kramdown
 highlighter: rouge
