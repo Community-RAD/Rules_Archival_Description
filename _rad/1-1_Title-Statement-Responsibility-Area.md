@@ -5,6 +5,7 @@ permalink: /1-1/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+comments: true
 ---
 
 ## 1.1A. Preliminary rule
