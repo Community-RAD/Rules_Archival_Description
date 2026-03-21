@@ -5,6 +5,7 @@ permalink: /forums/
 sidebar:
   nav: "forum-sidebar"
 sidebar_position: left
+comments: false
 ---
 
 This site hosts a number of discussion forums for archivists to share how they use RAD, explore changes to descriptive practice, and converse with other archivists about arrangement and description. Users can also comment on specific sections of RAD through this website, if they prefer. 
