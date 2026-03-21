@@ -16,7 +16,7 @@ For records falling within the scope of other chapters but presenting cartograph
 
 For multilevel description of cartographic materials, see also chapter 1. For multiple media fonds, see chapter 2.
 
-(CM 0A)
+<p align="right">(CM 0A)</p>
 
 ## 5.0B. Sources of information
 
@@ -61,7 +61,7 @@ At the first and second level of detail, when describing a published cartographi
 ## 5.0E. Language and script of the description
 Follow the instructions in 1.0E1. Give mathematical data in the language and script of the institution providing the description; an original statement of scale, projection, etc., may be transcribed in a note (5.8B9).
 
-(CM 0E, Application)
+<p align="right">(CM 0E, *Application*)</p>
 
 ## 5.0F. Inaccuracies
 See 1.0F.
