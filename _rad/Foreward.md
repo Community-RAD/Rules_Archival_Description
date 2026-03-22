@@ -2,9 +2,6 @@
 layout: single
 title: "FOREWORD"
 permalink: /foreword/
-toc: true
-toc_label: "On this page"
-toc_sticky: true
 ---
 
 The Bureau of Canadian Archivisits is pleased to endorse *Rules for Archival Description* for use by Canadian archivists. *RAD* establishes for the first time a national set of rules for the description of archives, a goal the profession has sought for so many years.
