@@ -66,6 +66,361 @@ main-sidebar:
       - title: "3.8 Note Area"
         url: /3-8/
       - title: "3.9 Standard Number Area"
+        url: /3-9/
+  - title: "Chapter 4: Graphic Materials"
+    children:
+      - title: "4.0 General Rules"
+        url: /4-0/
+      - title: "4.1 Title and Statement of Responsibility Area"
+        url: /4-1/
+      - title: "4.2 Edition Area"
+        url: /4-2/
+      - title: "4.3 Class of Material Specific Details Area"
+        url: /4-3/
+      - title: "4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /4-4/
+      - title: "4.5 Physical Description Area"
+        url: /4-5/
+      - title: "4.6 Publisher's Series Area"
+        url: /4-6/
+      - title: "4.7 Archival Description Area"
+        url: /4-7/
+      - title: "4.8 Note Area"
+        url: /4-8/
+      - title: "4.9 Standard Number Area"
+        url: /4-9/
+  - title: "Chapter 5: Cartographic Materials"
+    children:
+      - title: "5.0 General Rules"
+        url: /5-0/
+      - title: "5.1 Title and Statement of Responsibility Area"
+        url: /5-1/
+      - title: "5.2 Edition Area"
+        url: /5-2/
+      - title: "5.3 Mathematical Data Area"
+        url: /5-3/
+      - title: "5.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /5-4/
+      - title: "5.5 Physical Description Area"
+        url: /5-5/
+      - title: "5.6 Publisher's Series Area"
+        url: /5-6/
+      - title: "5.7 Archival Description Area"
+        url: /5-7/
+      - title: "5.8 Note Area"
+        url: /5-8/
+      - title: "5.9 Standard Number Area"
+        url: /5-9/
+  - title: "Chapter 6: Architectural and Technical Drawings"
+    children:
+      - title: "6.0 General Rules"
+        url: /6-0/
+      - title: "6.1 Title and Statement of Responsibility Area"
+        url: /6-1/
+      - title: "6.2 Edition Area"
+        url: /6-2/
+      - title: "6.3 Scale Area"
+        url: /6-3/
+      - title: "6.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /6-4/
+      - title: "6.5 Physical Description Area"
+        url: /6-5/
+      - title: "6.6 Publisher's Series Area"
+        url: /6-6/
+      - title: "6.7 Archival Description Area"
+        url: /6-7/
+      - title: "6.8 Note Area"
+        url: /6-8/
+      - title: "6.9 Standard Number Area"
+        url: /6-9/
+  - title: "Chapter 7: Moving Images"
+    children:
+      - title: "7.0 General Rules"
+        url: /7-0/
+      - title: "7.1 Title and Statement of Responsibility Area"
+        url: /7-1/
+      - title: "7.2 Edition Area"
+        url: /7-2/
+      - title: "7.3 Class of Material Specific Details Area"
+        url: /7-3/
+      - title: "7.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /7-4/
+      - title: "7.5 Physical Description Area"
+        url: /7-5/
+      - title: "7.6 Publisher's Series Area"
+        url: /7-6/
+      - title: "7.7 Archival Description Area"
+        url: /7-7/
+      - title: "7.8 Note Area"
+        url: /7-8/
+      - title: "7.9 Standard Number Area"
+        url: /7-9/
+  - title: "Chapter 8: Sound Recordings"
+    children:
+      - title: "8.0 General Rules"
+        url: /8-0/
+      - title: "8.1 Title and Statement of Responsibility Area"
+        url: /8-1/
+      - title: "8.2 Edition Area"
+        url: /8-2/
+      - title: "8.3 Class of Material Specific Details Area"
+        url: /8-3/
+      - title: "8.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /8-4/
+      - title: "8.5 Physical Description Area"
+        url: /8-5/
+      - title: "8.6 Publisher's Series Area"
+        url: /8-6/
+      - title: "8.7 Archival Description Area"
+        url: /8-7/
+      - title: "8.8 Note Area"
+        url: /8-8/
+      - title: "8.9 Standard Number Area"
+        url: /8-9/
+  - title: "Chapter 9: Records in Electronic Form"
+    children:
+      - title: "9.0 General Rules"
+        url: /9-0/
+      - title: "9.1 Title and Statement of Responsibility Area"
+        url: /9-1/
+      - title: "9.2 Edition Area"
+        url: /9-2/
+      - title: "9.3 Class of Material Specific Details Area"
+        url: /9-3/
+      - title: "9.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /9-4/
+      - title: "9.5 Physical Description Area"
+        url: /9-5/
+      - title: "9.6 Publisher's Series Area"
+        url: /9-6/
+      - title: "9.7 Archival Description Area"
+        url: /9-7/
+      - title: "9.8 Note Area"
+        url: /9-8/
+      - title: "9.9 Standard Number Area"
+        url: /9-9/
+  - title: "Chapter 10: Records on Microform"
+    children:
+      - title: "10.0 General Rules"
+        url: /10-0/
+      - title: "10.1 Title and Statement of Responsibility Area"
+        url: /10-1/
+      - title: "10.2 Edition Area"
+        url: /10-2/
+      - title: "10.3 Class of Material Specific Details Area"
+        url: /10-3/
+      - title: "10.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /10-4/
+      - title: "10.5 Physical Description Area"
+        url: /10-5/
+      - title: "10.6 Publisher's Series Area"
+        url: /10-6/
+      - title: "10.7 Archival Description Area"
+        url: /10-7/
+      - title: "10.8 Note Area"
+        url: /10-8/
+      - title: "10.9 Standard Number Area"
+        url: /10-9/
+  - title: "Chapter 11: Objects"
+    children:
+      - title: "11.0 General Rules"
+        url: /11-0/
+      - title: "11.1 Title and Statement of Responsibility Area"
+        url: /11-1/
+      - title: "11.2 Edition Area"
+        url: /11-2/
+      - title: "11.3 Class of Material Specific Details Area"
+        url: /11-3/
+      - title: "11.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /11-4/
+      - title: "11.5 Physical Description Area"
+        url: /11-5/
+      - title: "11.6 Publisher's Series Area"
+        url: /11-6/
+      - title: "11.7 Archival Description Area"
+        url: /11-7/
+      - title: "11.8 Note Area"
+        url: /11-8/
+      - title: "11.9 Standard Number Area"
+        url: /11-9/
+  - title: "Chapter 12: Philatelic Records"
+    children:
+      - title: "12.0 General Rules"
+        url: /12-0/
+      - title: "12.1 Title and Statement of Responsibility Area"
+        url: /12-1/
+      - title: "12.2 Edition Area"
+        url: /12-2/
+      - title: "12.3 Issue Data Area"
+        url: /12-3/
+      - title: "12.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /12-4/
+      - title: "12.5 Physical Description Area"
+        url: /12-5/
+      - title: "12.6 Publisher's Series Area"
+        url: /12-6/
+      - title: "12.7 Archival Description Area"
+        url: /12-7/
+      - title: "12.8 Note Area"
+        url: /12-8/
+      - title: "12.9 Standard Number Area"
+        url: /12-9/
+  - title: "Chapter 13: Discrete Items"
+    children:
+      - title: "13.0 General Rules"
+        url: /13-0/
+      - title: "13.1 Title and Statement of Responsibility Area"
+        url: /13-1/
+      - title: "13.2 Edition Area"
+        url: /13-2/
+      - title: "13.3 Class of Material Specific Details Area"
+        url: /13-3/
+      - title: "13.4 Date(s) of Creation, Including Broadcast, Publication, Distribution, etc., Area"
+        url: /13-4/
+      - title: "13.5 Physical Description Area"
+        url: /13-5/
+      - title: "13.6 Publisher's Series Area"
+        url: /13-6/
+      - title: "13.7 Archival Description Area"
+        url: /13-7/
+      - title: "13.8 Note Area"
+        url: /13-8/
+      - title: "13.9 Standard Number Area"
+        url: /13-9/
+      - title: "13.10 Examples"
+        url: /13-10/
+
+section-sidebar:
+  - title: "Foreword"
+    url: /foreword/
+  - title: "Preface to the 2008 Revision"
+    url: /2008/
+  - title: "Preface to the 1990 Revision"
+    url: /1990/
+  - title: "Statement of Principles"
+    url: /principles/
+  - title: "General Introduction"
+    url: /general-introduction/
+  - title: "General Rules"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-0/
+      - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
+        url: /2-0/
+      - title: "Chapter 3: Textual Records"
+        url: /3-0/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-0/
+      - title: "Chapter 5: Cartographic Materials"
+        url: /5-0/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-0/
+      - title: "Chapter 7: Moving Images"
+        url: /7-0/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-0/
+      - title: "Chapter 9: Records in Electronic Form"
+        url: /9-0/
+      - title: "Chapter 10: Records on Microform"
+        url: /10-0/
+      - title: "Chapter 11: Objects"
+        url: /11-0/
+      - title: "Chapter 12: Philatelic Records"
+        url: /12-0/
+      - title: "Chapter 13: Discrete Items"
+        url: /13-0/
+  - title: "Title and Statement of Responsibility Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-1/
+      - title: "Chapter 3: Textual Records"
+        url: /3-1/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-1/
+      - title: "Chapter 5: Cartographic Materials"
+        url: /5-1/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-1/
+      - title: "Chapter 7: Moving Images"
+        url: /7-1/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-1/
+      - title: "Chapter 9: Records in Electronic Form"
+        url: /9-1/
+      - title: "Chapter 10: Records on Microform"
+        url: /10-1/
+      - title: "Chapter 11: Objects"
+        url: /11-1/
+      - title: "Chapter 12: Philatelic Records"
+        url: /12-1/
+      - title: "Chapter 13: Discrete Items"
+        url: /13-1/
+  - title: "Edition Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-2/
+      - title: "Chapter 3: Textual Records"
+        url: /3-2/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-2/
+      - title: "Chapter 5: Cartographic Materials"
+        url: /5-2/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-2/
+      - title: "Chapter 7: Moving Images"
+        url: /7-2/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-2/
+      - title: "Chapter 9: Records in Electronic Form"
+        url: /9-2/
+      - title: "Chapter 10: Records on Microform"
+        url: /10-2/
+      - title: "Chapter 11: Objects"
+        url: /11-2/
+      - title: "Chapter 12: Philatelic Records"
+        url: /12-2/
+      - title: "Chapter 13: Discrete Items"
+        url: /13-2/
+  - title: "Class of Material Specific Details Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-3/
+      - title: "Chapter 3: Textual Records"
+        url: /3-3/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-
+        url: /1-6/
+      - title: "1.7 Archival Description Area"
+        url: /1-7/
+      - title: "1.8 Note Area"
+        url: /1-8/
+      - title: "1.9 Standard Number Area"
+        url: /1-9/
+  - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
+    children:
+      - title: "2.0 General Rule"
+        url: /2-0/
+  - title: "Chapter 3: Textual Records"
+    children:
+      - title: "3.0 General Rules"
+        url: /3-0/
+      - title: "3.1 Title and Statement of Responsibility Area"
+        url: /3-1/
+      - title: "3.2 Edition Area"
+        url: /3-2/
+      - title: "3.3 Class of Material Specific Details Area"
+        url: /3-3/
+      - title: "3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /3-4/
+      - title: "3.5 Physical Description Area"
+        url: /3-5/
+      - title: "3.6 Publisher's Series Area"
+        url: /3-6/
+      - title: "3.7 Archival Description Area"
+        url: /3-7/
+      - title: "3.8 Note Area"
+        url: /3-8/
+      - title: "3.9 Standard Number Area"
         url: /3-9/      
   - title: "Chapter 4: Graphic Materials"
     children:
