@@ -2,9 +2,6 @@
 layout: single
 title: "PREFACE TO THE 2008 REVISION"
 permalink: /2008/
-toc: true
-toc_label: "On this page"
-toc_sticky: true
 ---
 
 Nearly twenty years have passed since Kent Haworth’s extensive preface to the first edition of *Rules for Archival Description (RAD)* in 1990. Over this period Canadian institutions and the archival profession have made a significant investment in *RAD,* resulting in increased standardization of archival descriptions and improved access by users to archival holdings.
