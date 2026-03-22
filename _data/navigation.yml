@@ -736,7 +736,7 @@ section-sidebar:
         url: /12-2/
       - title: "Chapter 13: Discrete Items"
         url: /13-2/
-  - title: "Class of Material Specific Details Area"
+   - title: "Class of Material Specific Details Area"
     children:
       - title: "Chapter 1: General Rules for Description"
         url: /1-3/
