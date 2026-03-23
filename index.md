@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Welcome to the Community Rules for Archival Description (RAD)"
+title: "Welcome to the Rules for Archival Description (RAD) Community"
 permalink: /
 show_recent_posts: false
 ---
 
-Welcome to the Community Rules for Archival Description (RAD), a project created by and for Canadian Archivists!
+Welcome to the Rules for Archival Description (RAD) Community, a project created by and for Canadian Archivists!
 
 
 
