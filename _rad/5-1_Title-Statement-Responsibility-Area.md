@@ -10,10 +10,10 @@ toc_sticky: true
 ## 5.1A. Preliminary rule
 
 ### 5.1A1. Scope.
-See 1.1A1.
+[See 1.1A1.](https://communityrad.ca/1-1/#11a1-scope)
 
 ### 5.1A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Enclose the general material designation in square brackets.\
 Separate general material designation terms with a comma.\
 Precede each parallel title by an equals sign.\
@@ -26,7 +26,7 @@ Precede each subsequent statement of responsibility by a semicolon.
 ## 5.1B. Title proper
 
 ### 5.1B1. Formal title proper. 
-At all levels of description, transcribe a formal title proper as instructed in 1.1B1.[^6]
+At all levels of description, transcribe a formal title proper as instructed in [1.1B1.](https://communityrad.ca/1-1/#11b1-formal-title-proper)[^6]
 
 <p align="right">(CM 1B1a)</p>
 
@@ -63,7 +63,7 @@ If the formal title proper includes a statement of the scale, give that statemen
 > 1:100 000 manuscripts
 > *(Title of a series of topographic maps)*
 
-Give the source of the formal title proper in a note (see 5.8B3) if there is more than one title in the chief source of information or, in the case of an atlas, if the formal title proper is taken from a title page substitute (see 5.0B1 4c).
+Give the source of the formal title proper in a note [(see 5.8B3)](https://communityrad.ca/5-8/#58b3-parallel-titles-and-other-title-information) if there is more than one title in the chief source of information or, in the case of an atlas, if the formal title proper is taken from a title page substitute [(see 5.0B1 4c).](https://communityrad.ca/5-0/#50b1-chief-source-of-information)
 
 <p align="right">(CM 0B7, *Application*)</p>
 
@@ -71,7 +71,7 @@ Give the source of the formal title proper in a note (see 5.8B3) if there is mor
 > *Note:* Panel title of recto. Panel title of verso: Road map of Maritime Provinces and Quebec
 
 #### 5.1B1a. Abridging a long formal title proper. 
-Follow the instructions in 1.1B1d.
+Follow the instructions in [1.1B1d.](https://communityrad.ca/1-1/#11b1d-abridge-a-long-formal-title-proper)
 
 > Plan of the River Ottawa from the mouth of the River Mattawan to Point Fortune ... exhibiting the line boundary between Upper and Lower Canada ...
 
@@ -90,7 +90,7 @@ If a letter or word appears only once but the design of the chief source of info
 > (*Source of information reads:* Groundwater hotspots des eaux souterraines)
 
 #### 5.1B1c. 
-If the unit being described bears both a common or collective title and the titles of individual works, give the common or collective title as the formal title proper as instructed in 1.1B1. For titles of the individual works see Scope and content (5.7D).
+If the unit being described bears both a common or collective title and the titles of individual works, give the common or collective title as the formal title proper as instructed in [1.1B1.](https://communityrad.ca/1-1/#11b1-formal-title-proper) For titles of the individual works see Scope and content [(5.7D).](https://communityrad.ca/5-7/#57d-scope-and-content)
 
 <p align="right">(CM 1B11)</p>
 
@@ -105,10 +105,10 @@ At the item level, when recording the formal title proper of an individual sheet
 > 31 G/5: Ottawa
 
 ### 5.1B2. Supplied title proper.[^8] 
-At all levels of description, compose a brief descriptive title as instructed in 1.1B2-1.1B4.
+At all levels of description, compose a brief descriptive title as instructed in [1.1B2-1.1B4.](https://communityrad.ca/1-1/#11b2-supplied-title-proper)
 
 ### 5.1B3. Supplied title proper for a fonds. 
-When describing the fonds as a whole, supply a title proper as instructed in 1.1B3.
+When describing the fonds as a whole, supply a title proper as instructed in [1.1B3.](https://communityrad.ca/1-1/#11b3-supplied-title-proper-for-a-fonds-or-collection)
 
 > Gerald Murray Downton fonds
 >
@@ -121,7 +121,7 @@ When describing the fonds as a whole, supply a title proper as instructed in 1.1
 > Franco-Canadian Trust Company fonds
 
 ### 5.1B4. Supplied title proper for parts of a fonds (e.g., series, file, item). 
-When describing a part of a fonds (e.g., a series, file, or item) which lacks a formal title proper, compose a brief descriptive title as instructed in 1.1B4.9
+When describing a part of a fonds (e.g., a series, file, or item) which lacks a formal title proper, compose a brief descriptive title as instructed in [1.1B4.](https://communityrad.ca/1-1/#11b4-supplied-title-proper-for-parts-of-a-fonds-or-collection-eg-series-file-item-or-for-a-series-as-the-highest-level-of-description) [^9]
 
 > Water Rights Branch reference maps\
 > (*Name element for a series that forms part of the* Water Management Branch fonds)
@@ -129,7 +129,7 @@ When describing a part of a fonds (e.g., a series, file, or item) which lacks a 
 > Survey maps by F.C. Swannell\
 > (*Series forms part of the* A.F. Buckham fonds)
 
-*Optionally,* if the name(s) of the person(s), family(ies), or corporate body(ies) predominantly responsible for the form and the intellectual or artistic content of the unit being described is lengthy (e.g., a lengthy corporate body name), difficult to ascertain, or considered unnecessary to the composition of the title, do not include the name(s) as part of the supplied title proper. In such cases, follow the instructions in 1.1B4b and in the following in the constructing a title proper.
+*Optionally,* if the name(s) of the person(s), family(ies), or corporate body(ies) predominantly responsible for the form and the intellectual or artistic content of the unit being described is lengthy (e.g., a lengthy corporate body name), difficult to ascertain, or considered unnecessary to the composition of the title, do not include the name(s) as part of the supplied title proper. In such cases, follow the instructions in [1.1B4b](https://communityrad.ca/1-1/#11b4b-nature-of-the-archival-unit) and in the following in the constructing a title proper.
 
 > Trapline maps
 >
@@ -169,7 +169,7 @@ Where appropriate, include as part of the title a word or brief phrase indicatin
 ## 5.1C. *Optional addition.* General material designation
 
 ### 5.1C1. 
-At all levels of description, give immediately following the title proper the appropriate general material designation cartographic material as instructed in 1.1C.[^10]
+At all levels of description, give immediately following the title proper the appropriate general material designation cartographic material as instructed in [1.1C.](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation) [^10]
 
 <p align="right">(CM 1C1)</p>
 
@@ -178,7 +178,7 @@ At all levels of description, give immediately following the title proper the ap
 ## 5.1D. Parallel titles
 
 ### 5.1D1. 
-At all levels of description, transcribe parallel titles as instructed in 1.1D.[^11]
+At all levels of description, transcribe parallel titles as instructed in [1.1D.](https://communityrad.ca/1-1/#11d-parallel-titles-) [^11]
 
 <p align="right">(CM 1D1).</p>
 
@@ -189,7 +189,7 @@ At all levels of description, transcribe parallel titles as instructed in 1.1D.[
 ## 5.1E. Other title information
 
 ### 5.1E1. 
-At the series, file or item level of description, transcribe other title information as instructed in 1.1E.
+At the series, file or item level of description, transcribe other title information as instructed in [1.1E.](https://communityrad.ca/1-1/#11e-other-title-information)
 
 > Juan de Fuca Ridge atlas [GMD] : SeaMARC II acoustic imagery
 >
@@ -218,7 +218,7 @@ If neither the formal title proper nor the other title information indicates the
 Apply these rules at the item level. At the series and file levels, for material published and issued as a unit, use these rules only when the statement of responsibility applies to all the items in the unit being described.
 
 ### 5.1F1. 
-Transcribe explicit statements of responsibility appearing in the unit being described bearing a formal title proper as instructed in 1.1F.
+Transcribe explicit statements of responsibility appearing in the unit being described bearing a formal title proper as instructed in [1.1F.](https://communityrad.ca/1-1/#11f-statements-of-responsibility)
 
 <p align="right">(CM 1F1)</p>
 
@@ -237,20 +237,20 @@ Transcribe explicit statements of responsibility appearing in the unit being des
 > Survey of North American cultures scratch atlas [GMD] / compiled for their own use by a consortium of geographers, folklorists, anthropologists & historians for a proposed Atlas of North American cultures ; editor: M.B. Newton, Jr.
 
 ### 5.1F2. 
-If a single statement of responsibility names more than three persons or corporate bodies performing the same function, or with the same degree of responsibility, omit all but the first of each group of such persons or bodies as instructed in 1.1F5. If one of the names is distinguished by placement relative to the others or by typography, record that name and omit the remainder. Record the others in a note if considered necessary (see 5.8B7).
+If a single statement of responsibility names more than three persons or corporate bodies performing the same function, or with the same degree of responsibility, omit all but the first of each group of such persons or bodies as instructed in [1.1F5.](https://communityrad.ca/1-1/#11f5) If one of the names is distinguished by placement relative to the others or by typography, record that name and omit the remainder. Record the others in a note if considered necessary [(see 5.8B7).](https://communityrad.ca/5-8/#58b7-attribution-and-conjectures)
 
 <p align="right">(CM 1F5, *Application*)</p>
 
 > Interim mineral inventory-land use map of the Purcell Mountain area [GMD] / mineral potential interpretation by W.D. McCartney ... [et al.]
 
 ### 5.1F3. 
-If there is more than one statement of responsibility, give the names as instructed in 1.1F6.
+If there is more than one statement of responsibility, give the names as instructed in [1.1F6.](https://communityrad.ca/1-1/#11f6)
 
 > Ville de Hull / publié par le Service des communications et le Bureau des Congrès de la ville de Hull ; conception visuelle et illustration Henri-Julien D'Amours ; réalisation cartographique et montage cartographique, A.L. Enregistré
 >
 > Plan of Moose River in the neighbourhood of Moose Factory [GMD] / surveyed by Robert Bell ; drawn by A.S. Cochran
 
-*Optionally,* if there are four or more statements of responsibility, record only the names of persons or bodies judged by their function to have made the most significant contribution. If this is not possible to determine, record only the first three names, or record only those names given prominence by layout or typography. Record the others in a note if considered necessary (see 5.8B7).
+*Optionally,* if there are four or more statements of responsibility, record only the names of persons or bodies judged by their function to have made the most significant contribution. If this is not possible to determine, record only the first three names, or record only those names given prominence by layout or typography. Record the others in a note if considered necessary [(see 5.8B7).](https://communityrad.ca/5-8/#58b7-attribution-and-conjectures)
 
 <p align="right">(CM 1F6, Application)</p>
 
