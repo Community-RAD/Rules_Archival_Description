@@ -11,12 +11,12 @@ toc_sticky: true
 <p align="right">(CM 4A)</p>
 
 ### 5.4A1. Scope. 
-See 1.4A1.
+[See 1.4A1.](https://communityrad.ca/1-4/#14a1-scope)
 
 At the series and file levels, record only the date(s) of creation if all the material in the unit being described is unpublished, or if there is a mix of published and unpublished material, or if all the material is published but not published as a series or set. If all the material in the unit being described belongs to the same published series or set, record the information about the place, name, and date(s) of publishing, distributing or releasing, etc., activities.
 
 ### 5.4A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede this area by a full stop, space, dash, space.\
 Precede a second or subsequently named place of publication, distribution, etc., by a semicolon.\
 Precede the name of a publisher, distributor, etc., by a colon.\
@@ -28,17 +28,17 @@ Precede the date of manufacture by a comma.
 <p align="right">(CM 4A1)</p>
 
 ### 5.4A3. 
-In presenting information in the dates of creation including publication, distribution, etc., area, follow the instructions set out in 1.4A3-1.4A4 and the following rules.
+In presenting information in the dates of creation including publication, distribution, etc., area, follow the instructions set out in [1.4A3-1.4A4](https://communityrad.ca/1-4/#14a3-sources-of-information) and the following rules.
 
 ### 5.4A4.
-When more than one place, name, or date is recorded in this area, give them in the order that is appropriate to the unit being described. See also 1.4C5 and 1.4D5.
+When more than one place, name, or date is recorded in this area, give them in the order that is appropriate to the unit being described. See also [1.4C5](https://communityrad.ca/1-4/#14c5) and [1.4D5.](https://communityrad.ca/1-4/#14d5)
 <p align="right">(CM 4B3)</p>
 
 ### 5.4A5. 
-When describing a published reproduction follow the rules in 5.4C-5.4G and 1.4C-1.4G. For an unpublished reproduction see 1.4B3.
+When describing a published reproduction follow the rules in [5.4C-5.4G](https://communityrad.ca/5-4/#54c-place-of-publication-distribution-etc) and [1.4C-1.4G.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc) For an unpublished reproduction see [1.4B3.](https://communityrad.ca/1-4/#14b3)
 
 ### 5.4A6. 
-If the original publication details are covered by a label containing publication details relating to a reproduction, reissue, etc., give the publication details of the later publication in this area. Give the publication details of the original in a note (see 5.8B10) if they can be ascertained readily.
+If the original publication details are covered by a label containing publication details relating to a reproduction, reissue, etc., give the publication details of the later publication in this area. Give the publication details of the original in a note [(see 5.8B10)](https://communityrad.ca/5-8/#58b10-dates-of-creation-including-publication-distribution-etc) if they can be ascertained readily.
 <p align="right">(CM 4B6)</p>
 
 ### 5.4A7. 
@@ -48,7 +48,7 @@ If the unit being described is known to have fictitious publication, distributio
 ## 5.4B. Date(s) of creation
 
 ### 5.4B1. 
-At all levels of description, give the date(s) of creation of the unit being described as instructed in 1.4B. For cartographic items that are published, distributed, etc., see rules 1.4C-1.4G.
+At all levels of description, give the date(s) of creation of the unit being described as instructed in [1.4B.](https://communityrad.ca/1-4/#14b-dates-of-creation) For cartographic items that are published, distributed, etc., see rules [1.4C-1.4G.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc)
 <p align="right">(CM 4F9)</p>
 
 > 1667
@@ -61,7 +61,7 @@ At all levels of description, give the date(s) of creation of the unit being des
 >
 > Photocopied 1921 Nov. 29
 >
-> 1911-1991
+> 1911-1991\
 > *Note:* Record copies of superseded Surveys and Resource Mapping Branch maps are transferred on a regular basis
 >
 > Traced 1919
@@ -82,7 +82,7 @@ At all levels of description, give the date(s) of creation of the unit being des
 <p align="right">(CM 4C)</p>
 
 ### 5.4C1. 
-Transcribe a place of publication, distribution, etc., of the unit being described[^18] as instructed in 1.4C.
+Transcribe a place of publication, distribution, etc., of the unit being described[^18] as instructed in [1.4C.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc)
 
 > London (108 Gloucester Ave., London, NW1 8HX)\
 >In Venetia
@@ -101,7 +101,7 @@ Transcribe a place of publication, distribution, etc., of the unit being describ
 <p align="right">(CM 4D)</p>
 
 ### 5.4D1. 
-Give the name of the publisher, distributor, etc., of the unit being described as instructed in 1.4D.
+Give the name of the publisher, distributor, etc., of the unit being described as instructed in [1.4D.](https://communityrad.ca/1-4/#14d-name-of-publisher-distributor-etc)
 
 > Amsterdam : Published by Theatrum Orbis Terrarum Ltd. for the World Pub. Co., Cleveland and New York
 >
@@ -132,7 +132,7 @@ Give the name of the publisher, distributor, etc., of the unit being described a
 > [S.l. : s.n.]
 
 ### 5.4D2. 
-When describing cartographic materials published in more than one physical part when the publisher, etc., or the name of the publisher, etc., changes in the course of publication, see 1.4D5. Publishers other than the first may be recorded in a note (see 5.8B10).20
+When describing cartographic materials published in more than one physical part when the publisher, etc., or the name of the publisher, etc., changes in the course of publication, see [1.4D5.](https://communityrad.ca/1-4/#14d5) Publishers other than the first may be recorded in a note [(see 5.8B10)](https://communityrad.ca/5-8/#58b10-dates-of-creation-including-publication-distribution-etc). [^20]
 <p align="right">(CM 4B8).</p>
 
 *Alternatively,* give the places and names of all the publishers.
@@ -143,7 +143,7 @@ When describing cartographic materials published in more than one physical part 
 <p align="right">(CM 4E)</p>
 
 ### 5.4E1. 
-Add to the name of a publisher, distributor, etc., a statement of function as instructed in 1.4E.
+Add to the name of a publisher, distributor, etc., a statement of function as instructed in [1.4E.](https://communityrad.ca/1-4/#14e-optional-addition-statement-of-function-of-publisher-distributor-etc)
 
 > ... ; London [Ont.] : Western News Co. [distributor]
 
@@ -151,7 +151,7 @@ Add to the name of a publisher, distributor, etc., a statement of function as in
 <p align="right">(CM 4F)</p>
 
 ### 5.4F1. 
-Give the date[^21] of publication, distribution, etc., of the unit being described as instructed in 1.4F.
+Give the date[^21] of publication, distribution, etc., of the unit being described as instructed in [1.4F.](https://communityrad.ca/1-4/#14f-date-of-publication-distribution-etc)
 
 > , 1777 [i.e. 1792]
 >
@@ -171,7 +171,7 @@ If the publication and distribution dates are the same, give the date after the 
 <p align="right">(CM 4FG)</p>
 
 ### 5.4G1. 
-Give the place of manufacture, name of manufacturer, and/or date of manufacture of the unit being described as instructed in 1.4G.
+Give the place of manufacture, name of manufacturer, and/or date of manufacture of the unit being described as instructed in [1.4G.](https://communityrad.ca/1-4/#14g-place-of-manufacture-name-of-manufacturer-date-of-manufacture)
 
 > In Venetia : Per Gioa[n] Baptista Pedrezano, 1548 (Stampato per Nicolo Bascarini)
 >
