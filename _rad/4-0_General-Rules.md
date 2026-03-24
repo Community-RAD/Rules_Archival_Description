@@ -10,11 +10,12 @@ toc_sticky: true
 ## 4.0A. Preliminary rule
 
 ### 4.0A1. Scope
-The rules in this chapter may be used to describe graphic materials that constitute a fonds or a part thereof as instructed in 1.0A1. Graphic materials are defined as documents in the form of pictures, photographs, drawings, watercolours, prints, and other forms of two-dimensional pictorial representations. The rules cover the description of most two-dimensional graphic materials, whether intended to be viewed by reflected or transmitted light.
+The rules in this chapter may be used to describe graphic materials that constitute a fonds or a part thereof as instructed in [1.0A1.](https://communityrad.ca/1-0/#10a1-scope) Graphic materials are defined as documents in the form of pictures, photographs, drawings, watercolours, prints, and other forms of two-dimensional pictorial representations. The rules cover the description of most two-dimensional graphic materials, whether intended to be viewed by reflected or transmitted light.
+
 For multiple media fonds, see chapter 2. For cartographic materials, see chapter 5. For architectural and technical drawings, see chapter 6. For graphic materials in electronic form, see chapter 9. For graphic materials on microform, see chapter 10.
 
 ### 4.0A2. Multilevel description
-For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see 1.0A2.
+For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see [1.0A2.](https://communityrad.ca/1-0/#10a2-multilevel-description)
 
 ## 4.0B. Sources of information
 
@@ -42,19 +43,19 @@ The prescribed source(s) of information for each area of description of graphic 
 | Standard numbers | Any source |
 
 ## 4.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.
+For the punctuation of the description as a whole, see [1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 4.0D. Levels of detail in the description
-See 1.0D. When describing a filmstrip or artist's series at the first level of detail, include the elements prescribed in 1.0D3, if appropriate.
+See 1.0D. When describing a filmstrip or artist's series at the first level of detail, include the elements prescribed in [1.0D3,](https://communityrad.ca/1-0/#10d3-first-level-of-detail-of-description-for-an-item) if appropriate.
 
 ## 4.0E. Language and script of the description
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 4.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 4.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: For all levels of description other than the item (fonds, series, file) the chief source of information for a sub-division is the same as the chief source for that level.
