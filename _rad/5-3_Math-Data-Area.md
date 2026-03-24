@@ -15,7 +15,7 @@ toc_sticky: true
 Apply these rules, at all levels of description, to all cartographic materials regardless of form or format (e.g., paper, computer data, microform).
 
 ### 5.3A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede each occurrence of this area by a full stop, space, dash, space.\
 Precede the projection statement by a semicolon.\
 Enclose the statement of coordinates and equinox in one pair of parentheses.\
@@ -58,9 +58,7 @@ If a scale statement (i.e., verbal) found in the prescribed sources of informati
 > Scale [1:253 440]\
 > (*Verbal statement reads:* One inch to four miles)
 
-If a representative fraction or other scale statement is found in a source other than
-the prescribed sources of information, give the scale as a representative fraction in
-square brackets.
+If a representative fraction or other scale statement is found in a source other than the prescribed sources of information, give the scale as a representative fraction in square brackets.
 
 > Scale [1:63 360]
 
@@ -99,7 +97,7 @@ If the unit being described has two scales, give both. Give the scales in the or
 > *(8 profiles on 3 sheets)*
 
 ### 5.3B4. 
-If the unit being described has three or more scales, and one or two scales clearly predominate, give the predominating scale(s). Make a note (see 5.8B9) specifying that only predominant scales have been recorded. If no scale(s) predominate, give *Scales differ.* Scales not recorded here may be given in a note (see 5.8B9) or in the Scope and content (see 5.7D).
+If the unit being described has three or more scales, and one or two scales clearly predominate, give the predominating scale(s). Make a note [(see 5.8B9)](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data) specifying that only predominant scales have been recorded. If no scale(s) predominate, give *Scales differ.* Scales not recorded here may be given in a note [(see 5.8B9)](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data) or in the Scope and content [(see 5.7D).](https://communityrad.ca/5-7/#57d-scope-and-content)
 <p align="right">(CM 3B5)</p>
 
 ### 5.3B5. 
@@ -145,19 +143,19 @@ Give the statement of projection if it is found on the prescribed source(s) of i
 > ; proj. transverse de Mercator
 
 ### 5.3C2. 
-If all the maps (except ancillary, inset, index, reference, etc., maps) in the unit being described are drawn on the same projection, give the projection as instructed in 5.3C1.
+If all the maps (except ancillary, inset, index, reference, etc., maps) in the unit being described are drawn on the same projection, give the projection as instructed in [5.3C1.](https://communityrad.ca/5-3/#53c1)
 
 If all the maps in the unit being described are drawn on either of two projections, both projections may be recorded, if desired, connected by and. This rule also applies to a single map drawn using two projections.
 
 > ; Lambert conformal conic proj., standard parallels 49°N and 77°N and
 > modified polyconic south of latitude 80°
 
-If more than two projections are used, do not include a statement of projection. If considered important, they may be recorded in a note (see 5.8B9).
+If more than two projections are used, do not include a statement of projection. If considered important, they may be recorded in a note [(see 5.8B9).](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data)
 
 <p align="right">(CM 3C1, *Appendix* 2)</p>
 
 ### 5.3C3. 
-*Optional addition.* Give phrases associated with the projection statement found in the source of information that concern, for example, meridians, and/or parallels, but not ellipsoids. Give information on ellipsoids in a note (see 5.8B9).
+*Optional addition.* Give phrases associated with the projection statement found in the source of information that concern, for example, meridians, and/or parallels, but not ellipsoids. Give information on ellipsoids in a note [(see 5.8B9).](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data)
 <p align="right">(CM 3C2)</p>
 
 ## 5.3D. *Optional addition.* Statement of coordinates[^17]
@@ -197,7 +195,7 @@ For very large scale maps, only one set of coordinates for the centre need be re
 
 > (W 117°25'/N 56°10')
 
-*Optionally,* give other meridians (prime, local or source) found on the unit being described in the note area (see 5.8B9).
+*Optionally,* give other meridians (prime, local or source) found on the unit being described in the note area [(see 5.8B9).](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data)
 
 <p align="right">(CM 3D1c)</p>
 
