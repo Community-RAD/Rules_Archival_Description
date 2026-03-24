@@ -33,4 +33,4 @@ If an item bears two or more such numbers, give the one that applies to the item
 >ISBN 0-379-0051-4 (v. 1)
 
 ### 1.9B3.
-Give any number of an item other than an international standard number or publisher's series number in a note (see 1.8B11).
+Give any number of an item other than an international standard number or publisher's series number in a note [(see 1.8B11).](https://communityrad.ca/1-8/#18b11-alpha-numeric-designations)
