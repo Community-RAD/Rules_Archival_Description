@@ -13,7 +13,7 @@ toc_sticky: true
 Apply these rules, at all levels of description, to all architectural and technical drawings.
 
 ### 6.3A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede the scale area by a full stop, space, dash, space.
 
 ### 6.3A3. 
@@ -40,11 +40,11 @@ Give in English the scale in the units of measure found on the unit being descri
 > 
 > Scale 11/2 '' = 1'0''
 
-*or,* give the scale of the unit being described (except as noted below) as a representative fraction expressed as a ratio (1: ) as instructed in 5.3B;
+*or,* give the scale of the unit being described (except as noted below) as a representative fraction expressed as a ratio (1: ) as instructed in [5.3B;](https://communityrad.ca/5-3/#53b-statement-of-scale)
 
 > Scale 1:500
 > 
-> Scale [1:48]
+> Scale [1:48]\
 > (Verbal statement reads: 1/4'' to 1')
 > 
 > Scales [1:12] 1'' to 1' and [1:24] 1/2 '' to 1'
@@ -53,7 +53,7 @@ Give in English the scale in the units of measure found on the unit being descri
 
 Precede a scale statement by Scale. If the unit being described consists of data on computer file(s), follow the preceding rules and precede the scale by Input scale. Give the scale even if it is already recorded as part of the title proper or other title information.
 
-If no scale statement is found in the prescribed sources of information or other sources of information, record Scale not given. Optionally, calculate[^7] the scale from a bar graph or by measuring known distances on the drawing, and give it in square brackets preceded by ca.
+If no scale statement is found in the prescribed sources of information or other sources of information, record Scale not given. *Optionally*, calculate[^7] the scale from a bar graph or by measuring known distances on the drawing, and give it in square brackets preceded by ca.
 
 > Scale [ca. 1:24]
 
@@ -74,7 +74,7 @@ If the unit being described has two scales, give both. Give the larger scale fir
 > Scales [ca. 11/2 '' = 1'0''] and 3/4 '' = 1'0''
 
 ### 6.3B4. 
-If the unit being described has three or more scales, and one or two scales clearly predominate, give the predominating scale(s). If no scale(s) predominate, give *Scales differ.* Scales not recorded here may be given in a note (see 6.8B9) or in the Scope and content (see 6.7D).
+If the unit being described has three or more scales, and one or two scales clearly predominate, give the predominating scale(s). If no scale(s) predominate, give *Scales differ.* Scales not recorded here may be given in a note [(see 6.8B9)](https://communityrad.ca/6-8/#68b9-scale) or in the Scope and content [(see 6.7D).](https://communityrad.ca/6-7/#67d-scope-and-content)
 
 ### 6.3B5. 
 If the unit being described is not drawn to scale (e.g., sketch, conceptual plan), give *Not drawn to scale.*
