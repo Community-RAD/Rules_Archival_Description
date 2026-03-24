@@ -12,21 +12,21 @@ toc_sticky: true
 ### 1.4A1. Scope. 
 At an aggregate level of description (e.g. fonds, series, file) use this area for recording date(s) of creation for the unit being described. Do not record a place or date of publication, distribution, etc., or the name of a distributor, publisher (even if the aggregate contains published items).
 
-At the item level of description, use this area to record
-either a) the date(s) of creation of the unit being described
-or b) information about the place, name, and date of publishing, distributing, broadcasting, releasing, and issuing activities.
+At the item level of description, use this area to record either 
+1. the date(s) of creation of the unit being described or
+2. information about the place, name, and date of publishing, distributing, broadcasting, releasing, and issuing activities.
 
 Do not record a place or date of publication, distribution, etc., or the name of a publisher, distributor, etc., for unpublished items (e.g., manuscripts or photographs that have not been packaged for distribution, unedited or unpublished film or video materials, stock shots, nonprocessed sound recordings, unpublished electronic record(s)). In such cases, give only the date(s) of creation.
 
 ### 1.4A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede this area by a full stop, space, dash, space.
-Precede a second or subsequently named place of publication, distribution, etc., by a semicolon.
-Precede the name of a publisher, distributor, etc., by a colon.
-Enclose a supplied statement of function of a publisher, distributor, etc., in square brackets.
-Precede the date of publication, distribution, etc., by a comma.
-Enclose the details of manufacture (place, name, date) in parentheses.
-Precede the name of a manufacturer by a colon.
+For instructions on the use of spaces before and after prescribed punctuation, see [1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede this area by a full stop, space, dash, space.\
+Precede a second or subsequently named place of publication, distribution, etc., by a semicolon.\
+Precede the name of a publisher, distributor, etc., by a colon.\
+Enclose a supplied statement of function of a publisher, distributor, etc., in square brackets.\
+Precede the date of publication, distribution, etc., by a comma.\
+Enclose the details of manufacture (place, name, date) in parentheses.\
+Precede the name of a manufacturer by a colon.\
 Precede the date of manufacture by a comma.
 
 ### 1.4A3. Sources of information. 
@@ -38,23 +38,23 @@ Enclose information supplied from any other source in square brackets unless ins
 Give names of places, persons, or bodies as they appear, omitting accompanying prepositions unless case endings would be affected. Use abbreviations as instructed in appendix B.
 
 ### 1.4A5. 
-When describing a reproduction, give the date(s) of creation for the reproduction in this area. If needed, give the date(s) of creation of the original as other title information (see 1.1E7) or qualify the date(s) of the reproduction with the date(s) of the originals (see 1.4B3a).
+When describing a reproduction, give the date(s) of creation for the reproduction in this area. If needed, give the date(s) of creation of the original as other title information [(see 1.1E7)](https://communityrad.ca/1-1/#11e7) or qualify the date(s) of the reproduction with the date(s) of the originals [(see 1.4B3a)](https://communityrad.ca/1-4/#14b3a).
 
 ### 1.4A6. 
-Give the date(s) of accumulation or collection of the unit being described, if different from the date(s) of creation, in a note (see 1.8B8a).
+Give the date(s) of accumulation or collection of the unit being described, if different from the date(s) of creation, in a note [(see 1.8B8a)](https://communityrad.ca/1-8/#18b8a-dates-of-accumulation-or-collection).
 
 ### 1.4A7. 
-Give the date(s) relating to the contents of the unit being described in the Scope and content (see 1.7D).
+Give the date(s) relating to the contents of the unit being described in the Scope and content [(see 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content).
 
 ## 1.4B. Date(s) of creation
 
 ### 1.4B1. 
-Give the date(s) of creation for the unit being described. For items that are published, distributed, etc., see rules 1.4C-1.4G.
+Give the date(s) of creation for the unit being described. For items that are published, distributed, etc., see rules [1.4C-1.4G](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc).
 
 ### 1.4B2. 
 Give the date(s) of creation of the unit being described either as a single date, or range of dates (for inclusive dates and/or predominant dates). Always give the inclusive dates. When providing predominant dates, specify them as such, preceded by the word predominant (or its equivalent in another language); for inclusive dates, do not give any specification or designation. Give dates in Western-style arabic numerals.[15] If the date found in or on the unit being described is not of the Gregorian or Julian calendar, give the date as found and follow it with the year(s) of the Gregorian or Julian calendar.[16] Specify the name of the calendar, e.g., Republican, Jewish, Chinese, in a note.
 
->, 2628 [1968]
+>, 2628 [1968]\
 >Note: Dated in accordance with the Chinese calendar
 >
 >1975
@@ -67,13 +67,13 @@ Give the date(s) of creation of the unit being described either as a single date
 
 The date(s) of creation of a unit being described must fall within the range of dates of creation of the unit of which it forms a part.
 
->1934-1985
+>1934-1985\
 >(Dates of creation of the fonds)
 >
->1945-1960
+>1945-1960\
 >(Dates of creation of a series within the fonds)
 >
->1950-1955
+>1950-1955\
 >(Dates of creation of a file within the series)
 
 #### 1.4B2a. 
@@ -82,9 +82,9 @@ The date(s) of creation of a unit being described must fall within the range of 
 >1927, 1952-1978
 
 ### 1.4B3. 
-If the unit being described is a reproduction, give the date(s) of creation for the reproduction. Precede the date(s) of creation with a descriptive term or phrase that reflects the process that resulted in the reproduction (see also 1.1E7).
+If the unit being described is a reproduction, give the date(s) of creation for the reproduction. Precede the date(s) of creation with a descriptive term or phrase that reflects the process that resulted in the reproduction [(see also 1.1E7)](https://communityrad.ca/1-1/#11e7).
 
-If the unit being described contains both originals and reproductions, give the date(s) of creation of the records that predominate. Give any relevant information pertaining to the other dates in the Scope and content (see 1.7D) or in a note (1.8B8).
+If the unit being described contains both originals and reproductions, give the date(s) of creation of the records that predominate. Give any relevant information pertaining to the other dates in the Scope and content [(see 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content) or in a note [(1.8B8)](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc).
 
 >Transcribed May 1988
 >
@@ -97,26 +97,26 @@ If the unit being described contains both originals and reproductions, give the 
 >[Photocopied 196-?]
 
 #### 1.4B3a. 
-*Optional addition.* Supplement the dates of the reproduction by adding the dates of the originals in parentheses. If this option is exercised, rule 1.1E7 does not apply.
+*Optional addition.* Supplement the dates of the reproduction by adding the dates of the originals in parentheses. If this option is exercised, rule [1.1E7](https://communityrad.ca/1-1/#11e7) does not apply.
 
 >Microfilmed 1974 (originally created 1771-1774)
 >
 >[Transferred to videodisc 1974 (originally created 1920)]
 
 ### 1.4B4. 
-For the material described at an aggregate level of description, e.g., described at the level of a fonds or series, and for which the unit being described is not yet complete, e.g., an open fonds or series, record the dates as instructed in 1.4B2 and make a note explaining that further accruals are expected (see 1.8B19). When new accruals are received, update the date information. This rule should be used in conjunction with 1.5B4.
+For the material described at an aggregate level of description, e.g., described at the level of a fonds or series, and for which the unit being described is not yet complete, e.g., an open fonds or series, record the dates as instructed in [1.4B2](https://communityrad.ca/1-4/#14b2) and make a note explaining that further accruals are expected [(see 1.8B19)](https://communityrad.ca/1-8/#18b19-accruals). When new accruals are received, update the date information. This rule should be used in conjunction with [1.5B4](https://communityrad.ca/1-5/#15b4).
 
->1906-1985
+>1906-1985\
 >Note: Further accruals are expected
 
-*Optionally,* give the earliest or earlier date only, and follow it with a hyphen and four spaces. Make a note indicating the frequency of accruals[17]. This option should be used in conjunction with the option of 1.5B4. Establish this option at the highest level of description and exercise it consistently for all applicable parts.
+*Optionally,* give the earliest or earlier date only, and follow it with a hyphen and four spaces. Make a note indicating the frequency of accruals[17]. This option should be used in conjunction with the option of [1.5B4](https://communityrad.ca/1-5/#15b4). Establish this option at the highest level of description and exercise it consistently for all applicable parts.
 
->1965-
+>1965-\
 >Note: Records from the Office of the Ceremonials Assistant are transferred to the archives five years following the academic year to which the records relate. Records are transferred to the archives annually on Aug. 1
 
-When the unit is closed, add the latest or later date. Make a note indicating that the unit is considered closed. If this option is exercised, 1.1E7 does not apply.
+When the unit is closed, add the latest or later date. Make a note indicating that the unit is considered closed. If this option is exercised, [1.1E7](https://communityrad.ca/1-1/#11e7) does not apply.
 
->1965-1985
+>1965-1985\
 >Note: No further accruals are expected
 
 Do not close the dates of a unit being described if any of its parts remain open.
@@ -160,11 +160,11 @@ Supply another form of the name of a place if such an addition is considered des
 ### 1.4C3. 
 If the name of the country, province, state, etc., appears in the source of information, transcribe it after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Supply the name of the country, province, state, etc., if it does not appear in the source of information but is considered necessary for identification or distinction, using the English form of name if there is one. Use abbreviations (see B.14).
 
->Tolworth, England
+>Tolworth, England\
 >(City and country, etc. appear in prescribed source of information)
 >
->Waco [Tex.]
->London [Ont.]
+>Waco [Tex.]\
+>London [Ont.]\
 >(City alone appears in prescribed source of information)
 
 ### 1.4C4. 
@@ -177,13 +177,13 @@ If a place name is found only in an abbreviated form in the item, transcribe it 
 ### 1.4C5. 
 If two or more places in which a publisher, distributor, etc., has offices are named in item, give the first named place. Give any subsequently named place that is given prominence by the layout or typography of the source of information. If the first named place and any place given prominence are not in the home country of the institution describing the item, give also the first of any subsequently named places that is in the home country. Omit all other places.
 
->Toronto
+>Toronto\
 >(Source of information reads: Toronto, Buffalo, London. Institution describing the unit is in Canada)
 >
->Montréal ; Toronto
+>Montréal ; Toronto\
 >(Toronto given prominence by typography)
 
-For items with two or more places of publication, distribution, etc., relating to two or more distributors, publishers, etc., see 1.4D5.
+For items with two or more places of publication, distribution, etc., relating to two or more distributors, publishers, etc., [see 1.4D5](https://communityrad.ca/1-4/#14d5).
 
 ### 1.4C6. 
 If the place of publication, distribution, etc., is uncertain, supply the probable place in the language of the chief source of information, followed by a question mark.
@@ -290,7 +290,7 @@ Unless:
 ## 1.4F. Date of publication, distribution, etc.
 
 ### 1.4F1. 
-For an item, give the date (i.e., year) of publication, distribution, etc., of the edition, revision, etc., named in the edition area. If there is no edition statement, give the date of the first publication of the edition to which the item belongs, or its first distribution or release. Give dates in Western-style arabic numerals. If the date found in or on the item is not of the Gregorian or Julian calendar, give the date as found and follow it with the year(s) of the Gregorian or Julian calendar.[19] Specify the name of the calendar, e.g., Republican, Jewish, Chinese, in a note (see 1.8B8).
+For an item, give the date (i.e., year) of publication, distribution, etc., of the edition, revision, etc., named in the edition area. If there is no edition statement, give the date of the first publication of the edition to which the item belongs, or its first distribution or release. Give dates in Western-style arabic numerals. If the date found in or on the item is not of the Gregorian or Julian calendar, give the date as found and follow it with the year(s) of the Gregorian or Julian calendar.[19] Specify the name of the calendar, e.g., Republican, Jewish, Chinese, in a note [(see 1.8B8).](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc)
 
 >, 1975
 >
@@ -300,7 +300,7 @@ For an item, give the date (i.e., year) of publication, distribution, etc., of t
 >, an 14 [1805]
 >Note: Dated in accordance with the French Republican calendar
 
-For unpublished items see 1.4B.
+For unpublished items [see 1.4B.](https://communityrad.ca/1-4/#14b-dates-of-creation)
 
 ### 1.4F2. 
 Record the date as found in or on the item even if it is known to be incorrect. If a date is known to be incorrect, add the correct date.[20]
@@ -317,7 +317,7 @@ If the publication date differs from the date of distribution, add the date of d
 
 >London : Educational Records, 1973 ; New York : Edcorp [distributor], 1975
 >
->Toronto : Royal Ontario Museum, 1971 ; Beckenham [England] : Edward Patterson [distributor]
+>Toronto : Royal Ontario Museum, 1971 ; Beckenham [England] : Edward Patterson [distributor]\
 >(Distribution date known to be different but not recorded)
 
 ### 1.4F4. 
@@ -337,9 +337,9 @@ If the dates of publication, distribution, etc., are unknown, give the copyright
 >, 1979 pressing
 
 ### 1.4F6. 
-If no date of publication, distribution, etc., copyright date, or date of manufacture appears in or on the item, supply an approximate date of publication, distribution, etc., in accordance with the recording conventions of 1.4B5.
+If no date of publication, distribution, etc., copyright date, or date of manufacture appears in or on the item, supply an approximate date of publication, distribution, etc., in accordance with the recording conventions of [1.4B5.](https://communityrad.ca/1-4/#14b5)
 
-*Optionally,* give an approximate date of publication, distribution, etc., if it differs significantly from the date(s) specified in 1.4F5.
+*Optionally,* give an approximate date of publication, distribution, etc., if it differs significantly from the date(s) specified in [1.4F5.](https://communityrad.ca/1-4/#14f5)
 
 >, [1982?], c1949
 
@@ -351,7 +351,7 @@ For an item, if the name of the publisher or distributor is unknown, and the pla
 >[S.l. : s.n.], 1970 (London : High Fidelity Sound Studios)
 
 ### 1.4G2. 
-In recording the place and name of the manufacturer, follow the instructions in 1.4C-1.4D.
+In recording the place and name of the manufacturer, follow the instructions in [1.4C-1.4D.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc)
 
 ### 1.4G3. 
 If the date of manufacture is given in place of an unknown date of publication, distribution, etc., do not repeat it here.
