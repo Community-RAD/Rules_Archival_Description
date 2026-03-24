@@ -10,26 +10,26 @@ toc_sticky: true
 ## 6.4A. Preliminary rule
 
 ### 6.4A1. Scope
-See 1.4A1.
+[See 1.4A1.](https://communityrad.ca/1-4/#14a1-scope)
 
 ### 6.4A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede this area by a full stop, space, dash, space.
-Precede a second or subsequently named place of publication, distribution, etc., by a semicolon.
-Precede the name of a publisher, distributor, etc., by a colon.
-Enclose a supplied statement of function of a publisher, distributor, etc., in square brackets.
-Precede the date of publication, distribution, etc., by a comma.
-Enclose the details of manufacture (place, name, date) in parentheses.
-Precede the name of a manufacturer by a colon.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede this area by a full stop, space, dash, space.\
+Precede a second or subsequently named place of publication, distribution, etc., by a semicolon.\
+Precede the name of a publisher, distributor, etc., by a colon.\
+Enclose a supplied statement of function of a publisher, distributor, etc., in square brackets.\
+Precede the date of publication, distribution, etc., by a comma.\
+Enclose the details of manufacture (place, name, date) in parentheses.\
+Precede the name of a manufacturer by a colon.\
 Precede the date of manufacture by a comma.
 
 ### 6.4A3. 
-In presenting information in the dates of creation including publication, distribution, etc., area, follow the instructions set out in 1.4A3-1.4A5 and the following rules.
+In presenting information in the dates of creation including publication, distribution, etc., area, follow the instructions set out in [1.4A3-1.4A5](https://communityrad.ca/1-4/#14a3-sources-of-information) and the following rules.
 
 ## 6.4B. Date(s) of creation
 
 ### 6.4B1. 
-At all levels of description, give the date(s) of creation of the unit being described as instructed in 1.4B. For architectural and technical drawings that are published, distributed, see rules 1.4C-1.4G.
+At all levels of description, give the date(s) of creation of the unit being described as instructed in [1.4B.](https://communityrad.ca/1-4/#14b-dates-of-creation) For architectural and technical drawings that are published, distributed, see rules [1.4C-1.4G.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc)
 
 > 1879
 > 
@@ -60,7 +60,7 @@ If the revision(s) has/have been made on the drawing(s) itself/themselves, recor
 ## 6.4C. Place of publication, distribution, etc.
 
 ### 6.4C1. 
-Transcribe a place of publication, distribution, etc., of the unit being described as instructed in 1.4C.
+Transcribe a place of publication, distribution, etc., of the unit being described as instructed in [1.4C.](https://communityrad.ca/1-4/#14c-place-of-publication-distribution-etc)
 
 > New York
 > 
@@ -75,8 +75,7 @@ Transcribe a place of publication, distribution, etc., of the unit being describ
 ## 6.4D. Name of publisher, distributor, etc.
 
 ### 6.4D1. 
-Give the name of the publisher, distributor, etc., of the unit being described as
-instructed in 1.4D.
+Give the name of the publisher, distributor, etc., of the unit being described as instructed in [1.4D.](https://communityrad.ca/1-4/#14d-name-of-publisher-distributor-etc)
 
 > London : Published in cooperation with the Dept. of Geography, University of Western Ontario
 > 
@@ -99,12 +98,12 @@ instructed in 1.4D.
 ## 6.4E. *Optional addition.* Statement of function of publisher, distributor, etc.
 
 ### 6.4E1. 
-Add to the name of a publisher, distributor, etc., a statement of function as instructed in 1.4E.
+Add to the name of a publisher, distributor, etc., a statement of function as instructed in [1.4E.](https://communityrad.ca/1-4/#14e-optional-addition-statement-of-function-of-publisher-distributor-etc)
 
 ## 6.4F. Date of publication, distribution, etc.
 
 ### 6.4F1. 
-Give the date of publication, distribution, etc., of the unit being described as instructed in 1.4F.
+Give the date of publication, distribution, etc., of the unit being described as instructed in [1.4F.](https://communityrad.ca/1-4/#14f-date-of-publication-distribution-etc)
 
 > , 1906-1914
 > 
@@ -113,7 +112,7 @@ Give the date of publication, distribution, etc., of the unit being described as
 ## 6.4G. Place of manufacture, name of manufacturer, date of manufacture
 
 ### 6.4G1. 
-Give the place of manufacture, name of manufacturer, and/or date of manufacture of the unit being described as instructed in 1.4G.
+Give the place of manufacture, name of manufacturer, and/or date of manufacture of the unit being described as instructed in [1.4G.](https://communityrad.ca/1-4/#14g-place-of-manufacture-name-of-manufacturer-date-of-manufacture)
 
 > [Ottawa : The Association], 1979 (Waterloo : Cartographic Centre, Faculty of Environmental Studies, University of Waterloo)
 > 
