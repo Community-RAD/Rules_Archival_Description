@@ -11,11 +11,11 @@ toc_sticky: true
 ## 5.5A. Preliminary rule
 
 ### 5.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 <p align="right">(CM 5A)</p>
 
 ### 5.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede each occurrence of this area by a full stop, space, dash, space.[^22]\
 Precede other physical details by a colon.\
 Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
@@ -24,10 +24,10 @@ Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 5.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ### 5.5A4. 
-If a cartographic unit falls within the scope of another chapter (e.g., microforms), give the physical details prescribed in this chapter in the Scope and content (see 5.7D), or in a note (see 5.8B11), as appropriate.
+If a cartographic unit falls within the scope of another chapter (e.g., microforms), give the physical details prescribed in this chapter in the Scope and content [(see 5.7D)](https://communityrad.ca/5-7/#57d-scope-and-content), or in a note [(see 5.8B11)](https://communityrad.ca/5-8/#58b11-physical-description), as appropriate.
 
 ## 5.5B. Extent of descriptive unit (including specific material designation)
 
@@ -43,7 +43,7 @@ At all levels of description, record the extent of the unit being described by g
 + remote-sensing image
 + section
 + view
-<p align="right">(CM5B1a, *Application*)</p>
+<p align="right">(CM5B1a, Application)</p>
 
 > 829 maps
 >
@@ -64,7 +64,7 @@ If the parts of the unit being described are very numerous and the exact number 
 
 > ca. 1,500 cartographic items
 
-*Optionally,* i) record the number of containers, rolls, or remote sensing reels, etc. (if desirable, give the dimensions of the containers, rolls, or remote sensing reels at 5.5D1).
+*Optionally,* i) record the number of containers, rolls, or remote sensing reels, etc. (if desirable, give the dimensions of the containers, rolls, or remote sensing reels at [5.5D1](https://communityrad.ca/5-5/#55d1)).
 
 > 1,625 remote-sensing reels
 >
@@ -72,7 +72,7 @@ If the parts of the unit being described are very numerous and the exact number 
 >
 > 1,270 rolls
 
-or, ii) record the linear or cubic measurement followed by the phrase of *cartographic material.* If the general material designation is used (see 5.1C), omit the phrase of *cartographic material.*
+or, ii) record the linear or cubic measurement followed by the phrase of *cartographic material.* If the general material designation is used [(see 5.1C)](https://communityrad.ca/5-1/#51c-optional-addition-general-material-designation), omit the phrase of *cartographic material.*
 
 > 0.7 m<sup>3</sup> of cartographic material
 >
@@ -112,12 +112,12 @@ When the unit being described contains parts that fall into three or fewer speci
 > 2 remote-sensing images ; 17 x 22 cm
 
 ### 5.5B3. 
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other cartographic material and describe the remaining material in a note (see 5.8B11). Omit other physical details and dimensions in this area.
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other cartographic material and describe the remaining material in a note [(see 5.8B11)](https://communityrad.ca/5-8/#58b11-physical-description). Omit other physical details and dimensions in this area.
 
 *Optional addition.* If more detail is appropriate, give a separate and complete physical description for each special class of material.
 
 ### 5.5B4. Accruals. 
-For cartographic material described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in 1.5B4.[^24]
+For cartographic material described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) [^24]
 
 > 158 maps\
 > *Note:* Further accruals are expected
@@ -149,7 +149,7 @@ If maps, etc., are on two or more sheets but so designed that they could be fitt
 >
 > 13 maps on 7 sheets
 
-If the unit being described consists of a number of sheets each of which has the characteristics of a complete map (e.g., a contiguous area map series), give the extent as instructed in 5.5B1.
+If the unit being described consists of a number of sheets each of which has the characteristics of a complete map (e.g., a contiguous area map series), give the extent as instructed in [5.5B1.](https://communityrad.ca/5-5/#55b1)
 <p align="right">(CM 5B2c)</p>
 
 > 136 maps
@@ -182,7 +182,7 @@ If appropriate, at all levels of description, give the following details, as app
 >
 > 3 maps : photocopies, hand col.
 
-If more detail is required, give it in the Scope and content (5.7D) or in a note (see 5.8B11).
+If more detail is required, give it in the Scope and content [(5.7D)](https://communityrad.ca/5-7/#57d-scope-and-content) or in a note [(see 5.8B11).](https://communityrad.ca/5-8/#58b11-physical-description)
 
 > 1,500 items : most mss., some photocopies, some col.\
 > *Note:* Includes blueprints, diazo prints and lithographs and mss. items in pencil and/or ink, on linen, paper or mylar.
@@ -222,7 +222,7 @@ If the unit has been annotated, use annotations, if desired.
 *Optionally,* at the fonds, series and file levels of description, use the term *printed,* as appropriate.
 
 ### 5.5C4. Medium. 
-If desired, give the medium (e.g., pencil, ink) used to draw and colour manuscript cartographic materials. If a printed work or photomechanical reproduction is hand coloured, the medium may be recorded after the indication of colour (see 5.5C6).
+If desired, give the medium (e.g., pencil, ink) used to draw and colour manuscript cartographic materials. If a printed work or photomechanical reproduction is hand coloured, the medium may be recorded after the indication of colour [(see 5.5C6).](https://communityrad.ca/5-5/#55c6-colour)
 
 > 1 map : hand col. in pencil
 >
@@ -371,7 +371,7 @@ If the size of either dimension of a map, etc., is less than half the same dimen
 
 #### 5.5D5c. 
 If the unit being described is printed on both sides of the sheet at a constant scale, give the dimensions of the map, etc., as a whole, and give the sheet size. If such a map, etc., cannot conveniently be measured, give the sheet size alone.
-(CM 5D1j)
+<p align="right">(CM 5D1j)</p>
 
 > 1 map : both sides ; 45 x 80 cm, on sheet 50 x 44 cm
 >
@@ -393,7 +393,7 @@ If the volumes in a multivolume set differ in size, give the smallest size and t
 > ; 24-28 cm
 
 ### 5.5D7. Relief models. 
-For models, give the height x width in centimetres as instructed in 5.5D1, and optionally add the depth.
+For models, give the height x width in centimetres as instructed in [5.5D1,](https://communityrad.ca/5-5/#55d1) and optionally add the depth.
 <p align="right">(CM 5D3)</p>
 
 > ; 51 x 70 x 1 cm
@@ -417,7 +417,7 @@ Give both the dimensions of the specific form of cartographic material being des
 ## 5.5E. Accompanying material
 
 ### 5.5E1. 
-Give details of accompanying material as instructed in 1.5E1.[^31]
+Give details of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1) [^31]
 
 > 82 maps : col. ; 55 x 79 cm or smaller, on sheets 73 x 90 cm or smaller + 1 index map
 
@@ -425,11 +425,11 @@ Give details of accompanying material as instructed in 1.5E1.[^31]
 
 [^23]: Guidance for recording the extent and specific material designation for atlases is provided in *CM*, 5B4-5B26 and for manuscript atlases in CM, 5B29. Also, guidance is provided in *CM*, 5B26 for a cartographic unit containing, or consisting of, tactile data.
 
-[^24]: Combine all notes created in conjunction with 1.4B4 and 1.5B4 in one note (see 1.8B19).
+[^24]: Combine all notes created in conjunction with [1.4B4](https://communityrad.ca/1-4/#14b4) and [1.5B4](https://communityrad.ca/1-5/#15b4) in one note [(see 1.8B19).](https://communityrad.ca/1-8/#18b19-accruals)
 
 [^25]: Maps refers to two-dimensional cartographic materials such as map, profile, sections and views.
 
-[^26]: For remote sensing imagery also refer to 4.5C3 for additional guidance on recording information on production techniques and processes, if appropriate.
+[^26]: For remote sensing imagery also refer to [4.5C3](https://communityrad.ca/4-5/#45c3-multiple-techniques-processes-etc) for additional guidance on recording information on production techniques and processes, if appropriate.
 
 [^27]: Guidance for recording the number of maps in an atlas is provided in CM, 5C2a-g.
 
