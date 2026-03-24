@@ -15,11 +15,11 @@ For all levels of description, record in this area the extent of the unit being 
 For instructions regarding physical description for a particular class of material, refer to the .5 rules in the chapter that deals with that class of material.
 
 ### 1.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each occurrence of this area either by a full stop, space, dash, space or start a new paragraph.
-Precede other physical details (i.e., other than extent or dimensions) by a colon.
-Precede dimensions by a semicolon.
-Precede each statement of accompanying material by a plus sign.
+For instructions on the use of spaces before and after prescribed punctuation, see [1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede each occurrence of this area either by a full stop, space, dash, space or start a new paragraph.\
+Precede other physical details (i.e., other than extent or dimensions) by a colon.\
+Precede dimensions by a semicolon.\
+Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 1.5A3. Sources of information. 
@@ -59,24 +59,24 @@ When the unit being described contains parts that fall into three or fewer speci
 >2 microfilm reels
 
 ### 1.5B3. 
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase "and other material" and describe the remaining material in a note (see 1.8B9). Omit other physical details and dimensions in this area.
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase "and other material" and describe the remaining material in a note [(see 1.8B9)](https://communityrad.ca/1-8/#18b9-physical-description). Omit other physical details and dimensions in this area.
 
 >21 m of textual records and other material
 >
 >Note : Includes 1500 b&w photographs, 19 post cards, 9 posters, 41 maps and 1 microfilm reel (35 mm)
 
 ### 1.5B4. 
-For material described at an aggregate level of description, e.g., described at the level of a fonds or series and for which the unit so described is not yet complete, e.g., an open fonds or series, give the extent including the specific material designation as instructed in 1.5B1 and make a note explaining that further accruals are expected. When new accruals are received, update the extent information. This rule should be used in conjunction with 1.4B4.
+For material described at an aggregate level of description, e.g., described at the level of a fonds or series and for which the unit so described is not yet complete, e.g., an open fonds or series, give the extent including the specific material designation as instructed in [1.5B1](https://communityrad.ca/1-5/#15b1) and make a note explaining that further accruals are expected. When new accruals are received, update the extent information. This rule should be used in conjunction with [1.4B4.](https://communityrad.ca/1-4/#14b4)
 
->260 photographs
+>260 photographs\
 >Note: Further accruals are expected
 
-*Optionally,* give only the specific material designation preceded by three spaces. Make a note indicating the frequency and volume of accruals. [^22] This option should be used in conjunction with the option of 1.4B4. Establish this option at the fonds level and exercise it consistently for all applicable parts.
+*Optionally,* give only the specific material designation preceded by three spaces. Make a note indicating the frequency and volume of accruals. [^22] This option should be used in conjunction with the option of [1.4B4.](https://communityrad.ca/1-4/#14b4) Establish this option at the fonds level and exercise it consistently for all applicable parts.
 
->maps
+>maps\
 >Note: Since 1964, ca. 50 maps have been transferred to the archives on an annual basis
 >
->m of textual records
+>m of textual records\
 >Note: Files older than ten years are transferred in accordance with the records retention schedule for the Dept. of Housing
 
 When the descriptive unit is closed, add the number of physical units. Do not close the extent statement of the unit being described if any of its parts remain open.
@@ -114,7 +114,7 @@ Give the dimensions for each special class of material as instructed in the foll
 ### 1.5E1. 
 At the item level, give details of accompanying material (see Glossary, appendix D) in one of the following ways:
 
-1. make a note (see 1.8B9c) or
+1. make a note [(see 1.8B9c)](https://communityrad.ca/1-8/#18b9c-accompanying-material) or
 2. give the number of physical units in arabic numerals and the name of the accompanying material (using, when appropriate, a specific material designation) at the end of the physical description.
 
 >1 photograph : b&w ; 6 x 6 cm + 1 identification key
@@ -123,4 +123,4 @@ For instructions regarding accompanying material for a particular class of mater
 
 [^21]: The use of imperial measurements is not advocated by these rules. Therefore, the rules do not give examples, nor accommodate imperial measurements. The choice between imperial and SI should be set as an institutional policy. Do not mix SI and imperial measurements.
 
-[^22]: Combine all notes created in conjunction with 1.4B4 and 1.5B4 in one note (see 1.8B19).
+[^22]: Combine all notes created in conjunction with [1.4B4](https://communityrad.ca/1-4/#14b4) and [1.5B4](https://communityrad.ca/1-5/#15b4) in one note [(see 1.8B19).](https://communityrad.ca/1-8/#18b19-accruals)
