@@ -16,4 +16,4 @@ Use this area only to item level description to record international numbers per
 Precede this area by a full stop, space, dash, space or start a new paragraph.
 
 ## 6.9B. Standard number
-See 1.9B.
+[See 1.9B.](https://communityrad.ca/1-9/#19b-standard-number)
