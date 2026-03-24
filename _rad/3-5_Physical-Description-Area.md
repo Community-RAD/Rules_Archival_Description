@@ -10,17 +10,17 @@ toc_sticky: true
 ## 3.5A. Preliminary rule
 
 ### 3.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 3.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each physical description by a full stop, space, dash, space or start a new paragraph.
-Precede other physical details (i.e., other than extent or dimensions) by a colon.
-Separate each part of the description of other physical details by a comma, conjunction, or preposition.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede each physical description by a full stop, space, dash, space or start a new paragraph.\
+Precede other physical details (i.e., other than extent or dimensions) by a colon.\
+Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
 Precede dimensions by a semicolon.
 
 ### 3.5A3.
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 3.5B. Extent of descriptive unit
 
@@ -48,12 +48,12 @@ At all levels of description, give the linear extent for the unit being describe
 >3 cm of textual records (150 p.)
 
 ### 3.5B2. Accruals. 
-For textual records at an aggregate level of description, e.g., an open fonds or series, give the extent as instructed in 1.5B4. See also 1.8B19.
+For textual records at an aggregate level of description, e.g., an open fonds or series, give the extent as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) See also [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
->50 m of textual records
+>50 m of textual records\
 >Note: Further accruals are expected
 >
->m of textual records
+>m of textual records\
 >Note: Since the office began transferring records to the archives in 1982, approximately 10 metres of records have been transferred on an annual basis
 
 ## 3.5C. Other physical details
@@ -69,7 +69,7 @@ At all levels of description, if appropriate and readily ascertainable, give any
 >
 >: watermarks
 
-*Alternatively,* give such information in a note (see 3.8B10).
+*Alternatively,* give such information in a note [(see 3.8B10).](https://communityrad.ca/3-8/#38b10-physical-description)
 
 ## 3.5D. Dimensions
 
