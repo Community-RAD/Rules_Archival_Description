@@ -19,6 +19,8 @@ main-sidebar:
     url: /principles/
   - title: "General Introduction"
     url: /general-introduction/
+  - title: "Part I: Description, Introduction"
+    url: /introduction/
   - title: "Chapter 1: General Rules for Description"
     children:
       - title: "1.0 General Rules"
@@ -301,6 +303,8 @@ section-sidebar:
     url: /principles/
   - title: "General Introduction"
     url: /general-introduction/
+  - title: "Part I: Description, Introduction"
+    url: /introduction/
   - title: "General Rules"
     children:
       - title: "Chapter 1: General Rules for Description"
