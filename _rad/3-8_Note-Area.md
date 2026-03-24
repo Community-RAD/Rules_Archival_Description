@@ -10,29 +10,29 @@ toc_sticky: true
 ## 3.8A. Preliminary rule
 
 ### 3.8A1. Scope
-See 1.8A1.
+[See 1.8A1.](https://communityrad.ca/1-8/#18a1-scope)
 
 ### 3.8A2. Punctuation
-Precede each note by a full stop, space, dash, space or start a new paragraph for each.
+Precede each note by a full stop, space, dash, space or start a new paragraph for each.\
 Separate introductory wording from the main content of a note by a colon followed but not preceded by a space.
 
 ### 3.8A3. Form of presentation of notes
-See 1.8A4.
+[See 1.8A4.](https://communityrad.ca/1-8/#18a4-form-of-presentation-of-notes)
 
 ### 3.8A4. Notes relating to reproduced material
-See 1.8A5.
+[See 1.8A5.](https://communityrad.ca/1-8/#18a5-notes-relating-to-reproduced-material)
 
 ## 3.8B. Notes
-Make notes as instructed in 1.8B and the following subrules.
+Make notes as instructed in [1.8B](https://communityrad.ca/1-8/#18b-notes) and the following subrules.
 
 ### 3.8B1. Variations in title. 
-Make notes on variant titles as instructed in 1.8B1.
+Make notes on variant titles as instructed in [1.8B1.](https://communityrad.ca/1-8/#18b1-variations-in-title)
 
->Commonly known as: Quality of Life surveys
+>Commonly known as: Quality of Life surveys\
 >(Title proper is Social change in Canada)
 
 ### 3.8B2. Source of supplied title proper. 
-Indicate the source of a supplied title proper as instructed in 1.8B2.
+Indicate the source of a supplied title proper as instructed in [1.8B2.](https://communityrad.ca/1-8/#18b2-source-of-title-proper)
 
 >Title based on contents of subseries
 >
@@ -41,13 +41,13 @@ Indicate the source of a supplied title proper as instructed in 1.8B2.
 >Title based on content of the file
 
 ### 3.8B3. Parallel titles and other title information. 
-Make notes on parallel titles and other title information as instructed in 1.8B3.
+Make notes on parallel titles and other title information as instructed in [1.8B3.](https://communityrad.ca/1-8/#18b3-parallel-titles-and-other-title-information)
 
 ### 3.8B4. Continuation of title. 
-Complete the transcription of the formal title proper and/or other title information as instructed in 1.8B4.
+Complete the transcription of the formal title proper and/or other title information as instructed in [1.8B4.](https://communityrad.ca/1-8/#18b4-continuation-of-title)
 
 ### 3.8B5. Statement(s) of responsibility.
-Make notes on any statement(s) of responsibility as instructed in 1.8B5.
+Make notes on any statement(s) of responsibility as instructed in [1.8B5.](https://communityrad.ca/1-8/#18b5-statements-of-responsibility)
 
 >Written and presented by Gabor Kodaly
 >
@@ -61,15 +61,15 @@ Make notes on signatures, inscriptions, or monograms, etc., which appear on the 
 >The author's initials appear in the lower right corner
 
 ### 3.8B7. Attributions and conjectures. 
-Make notes on authors to whom the unit being described has been attributed as instructed in 1.8B6.
+Make notes on authors to whom the unit being described has been attributed as instructed in [1.8B6.](https://communityrad.ca/1-8/#18b6-attributions-and-conjectures)
 
 ### 3.8B8. Edition. 
-Make notes relating to the edition as instructed 1.8B7.
+Make notes relating to the edition as instructed [1.8B7.](https://communityrad.ca/1-8/#18b7-edition)
 
 >This version appears to have been created sometime between the 2nd and 3rd draft
 
 ### 3.8B9. Date(s) of creation, including publication, distribution, etc. 
-Make notes on dates as instructed in 1.8B8.
+Make notes on dates as instructed in [1.8B8.](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc)
 
 >File includes some copies of the material transcribed in 1970
 >
@@ -78,10 +78,10 @@ Make notes on dates as instructed in 1.8B8.
 >File includes some transcripts that were copied in 1916 from originals in the Library of Congress, Washington, D.C.
 
 #### 3.8B9a. Date(s) of accumulation.
-Make notes relating to date(s) of accumulation of the unit being described as instructed in 1.8B8a.
+Make notes relating to date(s) of accumulation of the unit being described as instructed in [1.8B8a.](https://communityrad.ca/1-8/#18b8a-dates-of-accumulation-or-collection)
 
 ### 3.8B10. Physical description.
-Make notes on important physical details that are not included in the physical description area, or elsewhere in the description, especially if these affect the use of the unit being described. See also 1.8B9.
+Make notes on important physical details that are not included in the physical description area, or elsewhere in the description, especially if these affect the use of the unit being described. See also [1.8B9.](https://communityrad.ca/1-8/#18b9-physical-description)
 
 >Holographs
 >
@@ -96,41 +96,41 @@ Make notes on important physical details that are not included in the physical d
 >Seal missing
 
 #### 3.8B10a. Physical condition. 
-Make notes on the physical condition of the unit being described as instructed in 1.8B9a.
+Make notes on the physical condition of the unit being described as instructed in [1.8B9a.](https://communityrad.ca/1-8/#18b9a-physical-condition)
 
 >Textual records heavily foxed
 >
 >Some of the correspondence in series 2 is illegible due to water damage
 
 #### 3.8B10b. Conservation. 
-Make notes on any specific conservation treatment including copying as instructed in 1.8B9b.
+Make notes on any specific conservation treatment including copying as instructed in [1.8B9b.](https://communityrad.ca/1-8/#18b9b-conservation)
 
 >Rebound in 1987 as two volumes for conservation purposes
 >
 >Letter encapsulated
 
 ### 3.8B11. Publisher's series. 
-Make notes on important details of publisher's series as instructed in 1.8B10.
+Make notes on important details of publisher's series as instructed in [1.8B10.](https://communityrad.ca/1-8/#18b10-publishers-series)
 
 ### 3.8B12. Alpha-numeric designations. 
-Make notes of any important numbers borne by the unit being described as instructed in 1.8B11.
+Make notes of any important numbers borne by the unit being described as instructed in [1.8B11.](https://communityrad.ca/1-8/#18b11-alpha-numeric-designations)
 
 >ISR study no. 56
 
 ### 3.8B13. Immediate source of acquisition. 
-Make notes on the immediate source of acquisition as instructed in 1.8B12.
+Make notes on the immediate source of acquisition as instructed in [1.8B12.](https://communityrad.ca/1-8/#18b12-immediate-source-of-acquisition)
 
 >Transferred from the Dept. of Indian Affairs in 1968, 1972, 1976, 1980, 1984, and 1988
 >
 >Donated to the archives by the creator
 
 ### 3.8B14. Arrangement. 
-Make notes on the arrangement as instructed in 1.8B13.
+Make notes on the arrangement as instructed in [1.8B13.](https://communityrad.ca/1-8/#18b13-arrangement)
 
 >The original filing scheme of these records was reconstructed during archival arrangement on the basis of file markings on the documents. Documents which could not be incorporated in the scheme because they lacked markings are filed chronologically at the end of the series
 
 ### 3.8B15. Language. 
-Make notes on the language of the unit being described as instructed in 1.8B14.
+Make notes on the language of the unit being described as instructed in [1.8B14.](https://communityrad.ca/1-8/#18b14-language)
 
 >Most of the sermons are in Cree
 >
@@ -139,17 +139,17 @@ Make notes on the language of the unit being described as instructed in 1.8B14.
 ### 3.8B16. Originals and reproductions
 
 #### 3.8B16a. Location of originals. 
-Make notes on the location of originals as instructed in 1.8B15a.
+Make notes on the location of originals as instructed in [1.8B15a.](https://communityrad.ca/1-8/#18b15a-location-of-originals)
 
 >Originals in possession of Library of Congress, Washington, D.C.
 
 #### 3.8B16b. Availability of other formats. 
-Make notes on the availability of other formats as instructed in 1.8B15b.
+Make notes on the availability of other formats as instructed in [1.8B15b.](https://communityrad.ca/1-8/#18b15b-availability-of-other-formats)
 
 >Microfilm copy created and distributed by the Provincial Archives of Nova Scotia
 
 ### 3.8B17. Restrictions on access, use, reproduction, and publication. 
-Make notes on restrictions as instructed in 1.8B16.
+Make notes on restrictions as instructed in [1.8B16.](https://communityrad.ca/1-8/#18b16-restrictions-on-access-use-reproduction-and-publication-)
 
 >Closed until 2020 unless permission in writing is received from the office of origin
 >
@@ -160,30 +160,30 @@ Make notes on restrictions as instructed in 1.8B16.
 >Access to the records in the subseries is governed by the Access to Information and Privacy Acts. The application case files contain personal information on individuals: address, telephone, date of birth, citizenship status, including native status. There are also some comments on the record, e.g., fishing violation charges, reasons for appeals. Once a licence is issued, the fact becomes public knowledge; it is a "discretionary benefit of a financial nature" granted by the Minister. Therefore, information on the licence itself may be released (when issued, the area, if transferred, name of the vessel or person). The only exception concerns the individual quota of a halibut or black cod licence which cannot be released because each quota is unique rather than a universal quota like geoduck. Part of the halibut and black cod quota originates from past landings on the vessel and any income information is considered confidential
 
 ### 3.8B18. Finding aids. 
-Make notes on finding aids as instructed in 1.8B17.
+Make notes on finding aids as instructed in [1.8B17.](https://communityrad.ca/1-8/#18b17-finding-aids)
 
 >Finding aid: A Guide to the Archives of the Oblates of Mary Immaculate : province of Alberta-Saskatchewan / [prepared by] Brian M. Owens and Claude M. Roberto. – Edmonton, Alta. : Missionary Oblates, Grandin Province, 1989
 >
 >File list available
 
 ### 3.8B19. Associated material. 
-Make notes on associated material as instructed in 1.8B18.
+Make notes on associated material as instructed in [1.8B18.](https://communityrad.ca/1-8/#18b18-associated-material)
 
 >Records of the parish of Immaculate Conception, Stand Off, Alta., are also located in the diocesan archives in Cardston, Alta.
 
 ### 3.8B20. Accruals. 
-Make notes on accruals as instructed in 1.8B19.
+Make notes on accruals as instructed in [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
 >Since the office began transferring records to the archives in 1982, approximately 10 metres of records have been transferred to the archives on an annual basis
 
 ### 3.8B21. Related groups of records in different fonds. 
-Make notes regarding related groups of records as instructed in 1.8B20.
+Make notes regarding related groups of records as instructed in [1.8B20.](https://communityrad.ca/1-8/#18b20-related-groups-of-records-in-different-fonds-external-to-the-unit-being-described)
 
->Other records relating to the administration of Indian lands in British Columbia, besides those in the Black (Western) Series of the Department of Indian Affairs, may be found in the Royal Commission on Indian Affairs for British Columbia fonds
+>Other records relating to the administration of Indian lands in British Columbia, besides those in the Black (Western) Series of the Department of Indian Affairs, may be found in the Royal Commission on Indian Affairs for British Columbia fonds\
 >(Note for the fonds of the Board of Reserve Commissioners set up in 1876 to settle the Indian reserve question in British Columbia)
 
 #### 3.8B21a. Related groups of records within the same fonds. 
-Make notes regarding related groups of records within the same fonds as instructed in 1.8B20a.
+Make notes regarding related groups of records within the same fonds as instructed in [1.8B20a.](https://communityrad.ca/1-8/#18b20a-related-groups-of-records-within-the-same-fonds-series-or-collection)
 
 ### 3.8B22. General note. 
-Use this note to record any other descriptive information considered important as instructed in 1.8B21.
+Use this note to record any other descriptive information considered important as instructed in [1.8B21.](https://communityrad.ca/1-8/#18b21-general-note)
