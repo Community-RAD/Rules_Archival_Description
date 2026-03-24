@@ -13,7 +13,7 @@ toc_sticky: true
 Use this area to record statements relating to versions, editions or states of cartographic materials.[^13] Above the item level, use this area only when all of the items are of the same edition or state.
 
 ## 5.2A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede this area by a full stop, space, dash, space.\
 Precede the first statement of responsibility following an edition statement by a diagonal slash.\
 Precede each subsequent statement of responsibility by a semicolon.
@@ -23,11 +23,11 @@ Precede each subsequent statement of responsibility by a semicolon.
 ## 5.2B. Edition statement
 
 ### 5.2B1. 
-Give an edition statement as instructed in 1.2B.
+Give an edition statement as instructed in [1.2B.](https://communityrad.ca/1-2/#12b-edition-statement-)
 
 <p align="right">(CM 2B1)</p>
 
-Give the source of the edition statement in a note (see 5.8B8) if it is different from the source of the title proper.
+Give the source of the edition statement in a note [(see 5.8B8)](https://communityrad.ca/5-8/#58b8-edition) if it is different from the source of the title proper.
 
 > Rev. to 1st June, 1914
 >
@@ -54,7 +54,7 @@ Transcribe an edition statement appearing in accompanying material only if it al
 ## 5.2C. Statements of responsibility relating to the edition
 
 ### 5.2C1. 
-Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the unit being described as instructed in 1.2C.
+Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the unit being described as instructed in [1.2C.](https://communityrad.ca/1-2/#12c-statements-of-responsibility-relating-to-the-edition)
 
 <p align="right">(CM 2C1)</p>
 
