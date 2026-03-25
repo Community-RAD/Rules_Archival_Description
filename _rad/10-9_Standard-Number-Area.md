@@ -8,4 +8,4 @@ toc_sticky: true
 ---
 
 ## 10.9A Preliminary rule
-This area is not used for records on microform. For records on microform that are published, distributed, etc., see rule 1.9.
+This area is not used for records on microform. For records on microform that are published, distributed, etc., see rule [1.9.](https://communityrad.ca/1-9/)
