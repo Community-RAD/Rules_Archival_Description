@@ -10,10 +10,10 @@ toc_sticky: true
 ## 9.5A. Preliminary rule
 
 ### 9.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 9.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede each physical description by a full stop, space, dash, space or start a new paragraph.\
 Precede other physical details (i.e., other than extent or dimensions) by a colon.\
 Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
@@ -22,7 +22,7 @@ Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 9.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 9.5B. Extent of descriptive unit
 
@@ -54,7 +54,7 @@ At all levels of description, record the extent of the unit being described by g
 > 
 > 1 computer disk
 
-Give a trade name or other similar specification in a note (see 9.8B10).
+Give a trade name or other similar specification in a note [(see 9.8B10).](https://communityrad.ca/9-8/#98b10-physical-description)
 
 ### 9.5B4. 
 When the unit being described contains parts that fall into three or fewer special classes of material, give the extent for each special class of material.
@@ -64,7 +64,7 @@ When the unit being described contains parts that fall into three or fewer speci
 > 11 MB of textual records. — 5 MB of photographs. — 2 MB of drawings
 
 ### 9.5B5. 
-When the unit being described contains parts that fall into more than three special classes of material, follow the instructions in 1.5B3.
+When the unit being described contains parts that fall into more than three special classes of material, follow the instructions in [1.5B3.](https://communityrad.ca/1-5/#15b3)
 
 > 2.4 MB of textual records and other material
 
@@ -82,7 +82,7 @@ If the unit being described is encoded to produce sound, give sd. If the unit be
 > 
 > 1 computer disc : sd., col.
 
-Give details of the requirements for the production of sound or the display of colour in a note (see 9.8B1a).
+Give details of the requirements for the production of sound or the display of colour in a note [(see 9.8B1a).](https://communityrad.ca/9-8/#98b1a-system-requirements-for-access)
 
 ### 9.5C2. 
 *Optionally,* for published material retained on its original carrier, give the physical characteristics, if readily available and if they are considered to be important, e.g.,
@@ -100,14 +100,14 @@ Give details of the requirements for the production of sound or the display of c
 ## 9.5D. Dimensions
 
 ### 9.5D1. 
-If the option at 9.5B3 is applied, give the physical dimensions for the physical carrier(s).[3]
+If the option at [9.5B3](https://communityrad.ca/9-5/#95b3) is applied, give the physical dimensions for the physical carrier(s).[3]
 
 > 1 computer disk ; 9 x 9 cm
 
 ## 9.5E. Accompanying material
 
 ### 9.5E1. 
-Give details of accompanying material as instructed in 1.5E1. Do not treat system documentation as accompanying material (see 9.7D2h).
+Give details of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1) Do not treat system documentation as accompanying material [(see 9.7D2h).](https://communityrad.ca/9-7/#97d2h-system-documentation)
 
 > 5 GB of photographs : col. + 1 poster
 >
