@@ -7,4 +7,4 @@ sidebar:
 sidebar_position: left
 ---
 
-A description will be added later. 
+The purpose of this forum is to share ideas about how to adapt arrangement and descriptive practice to better suit archival researchers.
