@@ -32,7 +32,7 @@ At the item level, do not transcribe a statement of the denomination, the name o
 
 <div style="margin-left: 2rem;">
   <img 
-    src="assets/images/12-1B1a_Example.png" 
+    src="_rad/assets/images/12-1B1a_Example.png" 
     alt="12.1B1a example"
     style="max-width: 100%; height: auto; display: block; margin: 1rem 0;"
   >
@@ -45,7 +45,7 @@ If a letter, word, or number appears only once but the design of the chief sourc
 
 <div style="margin-left: 2rem;">
   <img 
-    src="assets/images/12-1B1b_Example.png" 
+    src="_rad/assets/images/12-1B1b_Example.png" 
     alt="12.1B1b example"
     style="max-width: 100%; height: auto; display: block; margin: 1rem 0;"
   >
