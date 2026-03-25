@@ -10,7 +10,7 @@ toc_sticky: true
 ## 11.0A. Preliminary rule
 
 ### 11.0A1. Scope.
-The rules in this chapter may be used to describe objects that constitute a fonds or a part thereof as instructed in 1.0A1. An object is defined as a three-dimensional record. Man-made objects include furniture, clothing, tools and equipment, art objects, toys, ceremonial artefacts, etc. Naturally occurring objects include objects comprised of inorganic materials (such as stone or mineral samples, etc.), and objects comprised of organic materials, including animal materials (such as bone, hair, shell, etc.), or plant materials (such as bark, leaves, flowers, etc.).
+The rules in this chapter may be used to describe objects that constitute a fonds or a part thereof as instructed in [1.0A1.](https://communityrad.ca/1-0/#10a1-scope) An object is defined as a three-dimensional record. Man-made objects include furniture, clothing, tools and equipment, art objects, toys, ceremonial artefacts, etc. Naturally occurring objects include objects comprised of inorganic materials (such as stone or mineral samples, etc.), and objects comprised of organic materials, including animal materials (such as bone, hair, shell, etc.), or plant materials (such as bark, leaves, flowers, etc.).
 
 For multiple media fonds, see Chapter 2. For three-dimensional cartographic material , e.g., globes and models, see Chapter 5. For three-dimensional architectural records, e.g., models, see Chapter 6. For records which fall within the scope of other chapters but which are intellectually related to a particular object (e.g., sketches of a medal, etc., created as part of the design process), consult the rules in the chapter appropriate to the unit being described in conjunction with the rules in this chapter when necessary.
 
@@ -38,19 +38,19 @@ The prescribed source(s) of information for each area of description of objects 
 | Standard number | Any source |
 
 ## 11.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.\
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 11.0D. Levels of detail in the description
-See 1.0D.
+[See 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
 
 ## 11.0E. Language and script of the description
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 11.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 11.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: For all levels of description other than the item (fonds, series, file ) the chief source of information for a sub-division is the same as the chief source for that level.
