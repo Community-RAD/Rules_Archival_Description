@@ -10,7 +10,7 @@ toc_sticky: true
 ## 10.1A. Preliminary rule
 
 ### 10.1A1. Scope
-See 1.1A1.
+[See 1.1A1.](https://communityrad.ca/1-1/#11a1-scope)
 
 ### 10.1A2. Punctuation
 Consult the .1A2 rules of the chapter dealing with the broad class of material relating to the intellectual form of the unit being described.
@@ -24,6 +24,6 @@ Consult the .1B1 rules of the chapter dealing with the broad class of material r
 Consult the .1B2-.1B4 rules of the chapter dealing with the broad class of material relating to the intellectual form of the unit being described.
 
 ## 10.1C. *Optional addition.* General material designation. 
-At all levels of description, immediately following the title proper, give the general material designation as instructed in 1.1C. Add the qualifier microform as instructed in 1.1C4.
+At all levels of description, immediately following the title proper, give the general material designation as instructed in [1.1C.](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation) Add the qualifier microform as instructed in [1.1C4.](https://communityrad.ca/1-1/#11c4-qualifier)
 
 > Canada Department of Transport fonds [textual record (microform)]
