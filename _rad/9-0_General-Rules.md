@@ -17,11 +17,11 @@ The rules, however, are not intended to apply to virtual records or electronic t
 Use these rules in conjunction with the chapter(s) dealing with the broad class(es) of material relating to the intellectual form of the unit being described. For multiple media fonds, see chapter 2.
 
 ### 9.0A2. Multilevel description
-For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see 1.0A2.
+For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, [see 1.0A2.](https://communityrad.ca/1-0/#10a2-multilevel-description)
 
 ## 9.0B. Sources of information
 
-9.0B1. Chief source of information. 
+### 9.0B1. Chief source of information. 
 The chief sources of information for records in electronic form are as follows:[^2]
 1. for a fonds, all of the material in the fonds;
 2. for a series, all of the material in the series;
@@ -49,20 +49,20 @@ The prescribed source(s) of information for each area of description of the reco
 | Standard number | Any source |
 
 ## 9.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 9.0D. Levels of detail in the description
-See 1.0D and the .0D rules in the relevant media chapters.
+[See 1.0D](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description) and the .0D rules in the relevant media chapters.
 
 ## 9.0E. Language and script of the descripton
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 9.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 9.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: If the institution has itself produced a digitized copy of the unit being described, it may choose either to indicate the availability of the copy in the descriptive entry for the unit being described as instructed, or prepare a separate descriptive entry for the copy.
 
