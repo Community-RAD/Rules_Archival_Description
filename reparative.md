@@ -7,4 +7,4 @@ sidebar:
 sidebar_position: left
 ---
 
-A description will be added later.
+The purpose of this forum is to discuss reparative description. This may include sharing examples and guidance based on experience with reparative description or suggestions and ideas from those who have not yet integrated reparative approaches into their work.
