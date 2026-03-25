@@ -13,7 +13,7 @@ toc_sticky: true
 Sound recordings are defined as any media on which sound has been recorded and may be played back. The rules in this chapter may be used to describe sound recordings which constitute a fonds or a part thereof. For multiple media fonds, see chapter 2. For film sound track, see chapter 7.
 
 ### 8.0A2. Multilevel description. 
-For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see 1.0A2.
+For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, [see 1.0A2.](https://communityrad.ca/1-0/#10a2-multilevel-description)
 
 ## 8.0B. Sources of information
 
@@ -42,19 +42,19 @@ The prescribed source(s) of information for each area of description of sound re
 | Standard number | Any source |
 
 ## 8.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)
 For the prescribed punctuation of elements, see the following rules.
 
 ## 8.0D. Levels of detail in the description
-For the levels of details see 1.0D.
+For the levels of details see [1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
 
 ## 8.0E. Language and script of the description
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 8.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 8.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: For all levels of description other than the item (fonds, series, file) the chief source of information for a sub-division is the same as the chief source for that level.
