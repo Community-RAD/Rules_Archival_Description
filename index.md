@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Welcome to the Community Rules for Archival Description (RAD), a project created by and for Canadian Archivists!"
 permalink: /
 show_recent_posts: false
