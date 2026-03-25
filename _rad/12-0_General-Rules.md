@@ -26,7 +26,7 @@ For multilevel description of philatelic records, see also chapter 1. For multip
 
 ## 12.0B. Sources of information
 
-12.0B1. Chief source of information. 
+### 12.0B1. Chief source of information. 
 The chief sources of information for philatelic records are as follows:[^1]
 1. for a fonds, all of the material in the fonds;
 2. for a series, all of the material in the series;
@@ -49,19 +49,19 @@ The prescribed source(s) of information for each area of description of philatel
 | Standard number | Any source |
 
 ## 12.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.\
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 12.0D. Levels of detail in the description
-See 1.0D.
+[See 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
 
 ## 12.0E. Language and script of the description
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 12.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 12.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: For all levels of description other than the file and item (fonds, series) the chief source of information for a sub-division is the same as the chief source for that level.
