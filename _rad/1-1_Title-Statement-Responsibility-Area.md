@@ -288,25 +288,16 @@ Use general material designation term(s) from the list given below in all descri
 
 LIST OF GENERAL MATERIAL DESIGNATIONS 
 
->architectural drawing
->
->cartographic material
->
->graphic material
->
->moving images
->
->multiple media
->
->object
->
->philatelic record
->
->sound recording
->
->technical drawing
->
->textual record
++ architectural drawing
++ cartographic material
++ graphic material
++ moving images
++ multiple media
++ object
++ philatelic record
++ sound recording
++ technical drawing
++ textual record
 
 Give this designation immediately following the title proper.
 
@@ -327,13 +318,10 @@ If the unit being described contains parts that fall into more than three catego
 ### 1.1C4. Qualifier.
 For records in electronic form, on microform or for the visually impaired, add a qualifier to the GMD from the list given below.
 
->electronic
->
->large print
->
->microform
->
->tactile
++ electronic
++ large print
++ microform
++ tactile
 
 Enclose the qualifier in parentheses. If various forms of a GMD are present, precede the qualifier(s) by some or chiefly, as appropriate.
 
@@ -408,8 +396,7 @@ If the formal title proper needs explanation, supply a brief addition as other t
 ### 1.1E7.
 When describing a reproduction, add the date(s) of creation for the original(s) as other title information if, when taken together, the title proper and the date of creation for the reproduction is misleading. If necessary, explain any date discrepancies in a note.
 
->Nova Scotia Chief Electoral Officer fonds [GMD] : [1967-1988]. –
->Microfilmed betweeen 1978 and 1989
+>Nova Scotia Chief Electoral Officer fonds [GMD] : [1967-1988]. – Microfilmed betweeen 1978 and 1989
 >
 >Statistics Office files [GMD] : [1842-1877]. – Microfilmed in 1983
 >
@@ -485,7 +472,7 @@ Add a word or short phrase to the statement of responsibility if the relationshi
 ### 1.1F9.
 Replace symbols or other matter that cannot be reproduced by the facilities available with the archivist's description in square brackets. Make an explanatory note if necessary.
 
->Over the border [GMD] : Acadia, the home of "Evangeline" / by [E.B.C.]
+>Over the border [GMD] : Acadia, the home of "Evangeline" / by [E.B.C.]\
 >Note: Author's initials represented by musical notes on title page
 
 ### 1.1F10.
