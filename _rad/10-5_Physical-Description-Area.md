@@ -10,10 +10,10 @@ toc_sticky: true
 ## 10.5A. Preliminary rule
 
 ### 10.5A1 Scope
-See 1.5A. This area covers the physical description of records on microform. Provide information about the physical details of material on the microform in a note. See 10.8B2.
+See [1.5A.](https://communityrad.ca/1-5/#15a-preliminary-rule) This area covers the physical description of records on microform. Provide information about the physical details of material on the microform in a note. [See 10.8B2.](https://communityrad.ca/10-8/#108b2-physical-description)
 
 ### 10.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede each occurrence of this area either by a full stop, space, dash, space or start a new paragraph.\
 Precede other physical details (i.e., other than extent and dimensions) by a colon.\
 Precede dimensions by a semicolon.
