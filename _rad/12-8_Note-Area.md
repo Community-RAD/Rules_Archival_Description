@@ -10,48 +10,48 @@ toc_sticky: true
 ## 12.8A. Preliminary rule
 
 ### 12.8A1. Scope.
-See 1.8A1.
+[See 1.8A1.](https://communityrad.ca/1-8/#18a1-scope)
 
 ### 12.8A2. Punctuation
 Precede each note by a full stop, space, dash, space or start a new paragraph.\
 Separate introductory wording from the main content of a note by a colon followed but not preceded by a space.
 
 ### 12.8A3. 
-In presenting information in the note area, follow the instructions set out in 1.8A4- 1.8A5.
+In presenting information in the note area, follow the instructions set out in [1.8A4- 1.8A5.](https://communityrad.ca/1-8/#18a4-form-of-presentation-of-notes)
 
 ## 12.8B. Notes
-Make notes as instructed in 1.8B and the following subrules.
+Make notes as instructed in [1.8B](https://communityrad.ca/1-8/#18b-notes) and the following subrules.
 
 ### 12.8B1. Variations in title. 
-Make notes on variant titles as instructed in 1.8B1.
+Make notes on variant titles as instructed in [1.8B1.](https://communityrad.ca/1-8/#18b1-variations-in-title)
 
 > Traditionally known as: Imperial penny postage\
 > *(Title proper is Xmas 1898)*
 
 ### 12.8B2. Source of supplied title proper. 
-Indicate the source of a supplied title proper as instructed in 1.8B2.
+Indicate the source of a supplied title proper as instructed in [1.8B2.](https://communityrad.ca/1-8/#18b2-source-of-title-proper)
 
 > Title taken from the official bulletin for the issued stamp\
 > *(Supplied title for an untitled die proof created in the stamp design process)*
 
 ### 12.8B3. Parallel titles and other title information. 
-Make notes on parallel titles and other title information as instructed in 1.8B3.
+Make notes on parallel titles and other title information as instructed in [1.8B3.](https://communityrad.ca/1-8/#18b3-parallel-titles-and-other-title-information)
 
 ### 12.8B4. Continuation of title. 
-Complete the transcription of the formal title proper and/or other title information as instructed in 1.8B4.
+Complete the transcription of the formal title proper and/or other title information as instructed in [1.8B4.](https://communityrad.ca/1-8/#18b4-continuation-of-title)
 
 > Title continues: ... passing over the first carrier of ocean mail\
 > *(Title proper:* Vickers Vimy leaving St. John's with first transatlantic air mail)
 
 ### 12.8B5. Statement(s) of responsibility. 
-Make notes on any statement(s) of responsibility as instructed in 1.8B5. Give the creator after whose original work the unit being described has been made, if known and not already recorded in the description.
+Make notes on any statement(s) of responsibility as instructed in [1.8B5.](https://communityrad.ca/1-8/#18b5-statements-of-responsibility) Give the creator after whose original work the unit being described has been made, if known and not already recorded in the description.
 
 > Designer and engraver Yves Baril
 >
 > After a photograph by Yousuf Karsh
 
 ### 12.8B6. Attributions and conjectures.
-Make notes on authors to whom the unit being described has been attributed, as instructed in 1.8B6.
+Make notes on authors to whom the unit being described has been attributed, as instructed in [1.8B6.](https://communityrad.ca/1-8/#18b6-attributions-and-conjectures)
 
 > Engraving attributed to Alfred Jones
 
@@ -65,7 +65,7 @@ Make notes on signatures, inscriptions, or marks, monograms, etc. If important, 
 > Inscriptions in side margins at the four corners of the pane record the printer name, plate number, names of designers
 
 ### 12.8B8. Edition. 
-Make notes relating to the edition as instructed in 1.8B7.
+Make notes relating to the edition as instructed in [1.8B7.](https://communityrad.ca/1-8/#18b7-edition)
 
 > Issue combines plate 1 of the frame and plate 2 of the vignette
 
@@ -77,7 +77,7 @@ Make notes on information relating to the issuing jurisdiction or the denominati
 > Includes all the issued denominations for the series plus material relating to the unissued 44 denomination
 
 ### 12.8B10. Date(s) of creation, including publication, distribution, etc. 
-Make notes on dates and other details of creation, publication, distribution, etc., as instructed in 1.8B8.
+Make notes on dates and other details of creation, publication, distribution, etc., as instructed in [1.8B8.](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc)
 
 > First issued in 1851
 
@@ -88,7 +88,7 @@ Make notes to distinguish between different generations of material.
 > *(Date of creation: 1930)*
 
 ### 12.8B12. Physical description. 
-Make notes on important physical details that are not already included in the physical description area. See also 1.8B9.
+Make notes on important physical details that are not already included in the physical description area. [See also 1.8B9.](https://communityrad.ca/1-8/#18b9-physical-description)
 
 > Plate blocks mounted in set on card
 >
@@ -108,60 +108,60 @@ Make notes on postal markings, cancellations, handstamps, imprints, etc.
 > American Bank Note Co. engraving department date stamp on verso
 
 #### 12.8B12b. Physical condition. 
-Make notes on the physical condition of the unit being described as instructed in 1.8B9a.
+Make notes on the physical condition of the unit being described as instructed in [1.8B9a.](https://communityrad.ca/1-8/#18b9a-physical-condition)
 
 > Creases through the centre column of stamps
 >
 > Colour faded on stamp
 
 #### 12.8B12c. Conservation. 
-Make notes on conservation work performed as instructed in 1.8B9b.
+Make notes on conservation work performed as instructed in [1.8B9b.](https://communityrad.ca/1-8/#18b9b-conservation)
 
 > Removed from original mount and cleaned
 >
 > Adhesive hinges removed from verso
 
 #### 12.8B12d. Accompanying material. 
-Make notes on accompanying material as instructed in 1.8B9c.
+Make notes on accompanying material as instructed in [1.8B9c.](https://communityrad.ca/1-8/#18b9c-accompanying-material)
 
 > Accompanied by a souvenir booklet
 
 ### 12.8B13. Publisher's series. 
-Make notes on the publisher's series as instructed in 1.8B10.
+Make notes on the publisher's series as instructed in [1.8B10.](https://communityrad.ca/1-8/#18b10-publishers-series)
 
 > Title in official bulletin: 1988 Olympic Winter Games\
 > (*Series title on stamps:* Calgary 1988)
 
 ### 12.8B14. Alpha-numeric designations. 
-Make a note of any important numbers borne by the unit as instructed in 1.8B11.
+Make a note of any important numbers borne by the unit as instructed in [1.8B11.](https://communityrad.ca/1-8/#18b11-alpha-numeric-designations)
 
 > Die number: X-G-588
 
 ### 12.8B15. Immediate source of acquisition. 
-Make notes on the immediate source of acquisition as instructed in 1.8B12.
+Make notes on the immediate source of acquisition as instructed in [1.8B12.](https://communityrad.ca/1-8/#18b12-immediate-source-of-acquisition)
 
 > Acquired from the Vincent Graves Green Philatelic Research Foundation
 
 ### 12.8B16. Arrangement. 
-Make notes on the arrangement as instructed in 1.8B13.
+Make notes on the arrangement as instructed in [1.8B13.](https://communityrad.ca/1-8/#18b13-arrangement)
 
 > Material arranged by the archives into sequential order by issue date
 
 ### 12.8B17. Language. 
-Make notes on the language of the unit being described as instructed in 1.8B14.
+Make notes on the language of the unit being described as instructed in [1.8B14.](https://communityrad.ca/1-8/#18b14-language)
 
 > Text on booklet cover in French only
 
 ### 12.8B18. Location of originals. 
-Make notes on the location of originals and reproductions as instructed in 1.8B15a.
+Make notes on the location of originals and reproductions as instructed in [1.8B15a.](https://communityrad.ca/1-8/#18b15a-location-of-originals)
 
 ### 12.8B19. Availability of other formats. 
-Make notes on the availability of other formats as instructed in 1.8B15b.
+Make notes on the availability of other formats as instructed in [1.8B15b.](https://communityrad.ca/1-8/#18b15b-availability-of-other-formats)
 
 > Selected photographic reproductions available
 
 ### 12.8B20. Restrictions on access, use, reproduction, and publication. 
-Make notes on restrictions as instructed in 1.8B16.
+Make notes on restrictions as instructed in [1.8B16.](https://communityrad.ca/1-8/#18b16-restrictions-on-access-use-reproduction-and-publication-)
 
 > Restricted: Permission of the donor required for access, use, or reproduction
 >
@@ -170,29 +170,29 @@ Make notes on restrictions as instructed in 1.8B16.
 > No reproduction without the written permission of Canada Post
 
 ### 12.8B21. Finding aids. 
-Make notes on finding aids as instructed in 1.8B17.
+Make notes on finding aids as instructed in [1.8B17.](https://communityrad.ca/1-8/#18b17-finding-aids)
 
 > Inventory list available
 > 
 > Finding aid: Pritchard-Andrews Limited collection of proof impression books. 33 v. Canadian Postal Archives finding aids: CPA-13, CPA-15, CPA-19, CPA-27
 
 ### 12.8B22. Associated material. 
-Make notes on associated material as instructed in 1.8B18.
+Make notes on associated material as instructed in [1.8B18.](https://communityrad.ca/1-8/#18b18-associated-material)
 
 > Original steel hammer used to make the postmarks is located at the National Postal Museum of the Canadian Museum of Civilization, Hull, Quebec
 
 ### 12.8B23. Accruals. 
-Make notes on accruals as instructed in 1.8B19.
+Make notes on accruals as instructed in [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
 > Issued material is transferred semi-annually to the archives. Pre- production material no longer required for production purposes is transferred approximately once a year
 
 ### 12.8B24. Related groups of records in different fonds. 
-Make notes regarding related groups of records in different fonds as instructed in 1.8B20. Also give this information at the file or item level of description if significant.
+Make notes regarding related groups of records in different fonds as instructed in [1.8B20.](https://communityrad.ca/1-8/#18b20-related-groups-of-records-in-different-fonds-external-to-the-unit-being-described) Also give this information at the file or item level of description if significant.
 
 > Other revenue material is located in the American Bank Note Company fonds
 
 #### 12.8B24a. Related groups of records within the same fonds. 
-Make notes regarding related groups of records within the same fonds as instructed in 1.8B20a.
+Make notes regarding related groups of records within the same fonds as instructed in [1.8B20a.](https://communityrad.ca/1-8/#18b20a-related-groups-of-records-within-the-same-fonds-series-or-collection)
 
 ### 12.8B25. References to published works. 
 Provide references to published works containing a description of the unit. As appropriate, cite philatelic catalogues or other standard sources that classify (e.g., by stamp issue) or otherwise help identify the material being described. Make this note in a standard and abbreviated form.
@@ -202,4 +202,4 @@ Provide references to published works containing a description of the unit. As a
 > Catalogue reference: The Canadian revenue stamp catalogue / E.S.J. van Dam. Toronto : Unitrade Press, 1991. FPS3
 
 ### 12.8B26. General note. 
-Use this note to record any other descriptive information considered important as instructed in 1.8B21.
+Use this note to record any other descriptive information considered important as instructed in [1.8B21.](https://communityrad.ca/1-8/#18b21-general-note)
