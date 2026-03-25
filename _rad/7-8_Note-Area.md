@@ -10,23 +10,23 @@ toc_sticky: true
 ## 7.8A. Preliminary rule
 
 ### 7.8A1. Scope
-See 1.8A1.
+[See 1.8A1.](https://communityrad.ca/1-8/#18a1-scope)
 
 ### 7.8A2. Punctuation
-Precede each note by a full stop, space, dash, space or start a new paragraph for each note.
+Precede each note by a full stop, space, dash, space or start a new paragraph for each note.\
 Separate introductory wording from the main content of a note by a colon followed but not preceded by a space.
 
 ### 7.8A3. Form of presentation of notes. 
-See 1.8A4.
+[See 1.8A4.](https://communityrad.ca/1-8/#18a4-form-of-presentation-of-notes)
 
 ### 7.8A4. Notes relating to reproduced material. 
-See 1.8A5.
+[See 1.8A5.](https://communityrad.ca/1-8/#18a5-notes-relating-to-reproduced-material)
 
 ## 7.8B. Notes
-Make notes as instructed in 1.8B and the following sub-rules.
+Make notes as instructed in [1.8B](https://communityrad.ca/1-8/#18b-notes) and the following sub-rules.
 
 ### 7.8B1. Variations in title. 
-Make notes on variations in the title as instructed in 1.8B1.
+Make notes on variations in the title as instructed in [1.8B1.](https://communityrad.ca/1-8/#18b1-variations-in-title)
 
 > Previously known as the Greg Hoy collection
 
@@ -37,14 +37,14 @@ Make notes on working or other pre-production titles, and release titles which c
 > In the United States, this version of the film was distributed under the title Silent night, evil night, and broadcast under the title Stranger in the house
 
 ### 7.8B2. Source of supplied title proper. 
-Indicate the source of a supplied title proper as instructed in 1.8B2.
+Indicate the source of a supplied title proper as instructed in [1.8B2.](https://communityrad.ca/1-8/#18b2-source-of-title-proper)
 
 > Title taken from CBC programme guide
 > 
 > Title based on accompanying material
 
 ### 7.8B3. Parallel title and other title information. 
-Make notes on parallel titles and other title information as instructed in 1.8B3.
+Make notes on parallel titles and other title information as instructed in [1.8B3.](https://communityrad.ca/1-8/#18b3-parallel-titles-and-other-title-information)
 
 > *Hog wild* was released in Québec as *Les fous de la moto* and in France as *Les motos sauvages*
 > 
@@ -53,18 +53,16 @@ Make notes on parallel titles and other title information as instructed in 1.8B3
 > A.R.P. is the acronym for Air Raid Procedures
 
 ### 7.8B4. Continuation of title. 
-Complete the transcription of the formal title proper and/or other title information as instructed in 1.8B4.
+Complete the transcription of the formal title proper and/or other title information as instructed in [1.8B4.](https://communityrad.ca/1-8/#18b4-continuation-of-title)
 
-> The royal visit to Canada and the United States ...
-> 
+> The royal visit to Canada and the United States ...\
 > Note: Title continues... of America, May 17-June 15, 1939
 > 
-> Consécration épiscopale et première pontificale de son excellence Monseigneur Bruno Desrochers, ...
-> 
+> Consécration épiscopale et première pontificale de son excellence Monseigneur Bruno Desrochers, ...\
 > Note: Suite du titre... premier évêque de Ste-Anne, septembre 1951
 
 ### 7.8B5. Statement(s) of responsibility. 
-Make notes on any statement(s) of responsibility, as instructed in 1.8B5.
+Make notes on any statement(s) of responsibility, as instructed in [1.8B5.](https://communityrad.ca/1-8/#18b5-statements-of-responsibility)
 
 > The director's credit is attributed to D.S. Everett, a pseudonym used by Donald Shebib
 
@@ -83,27 +81,27 @@ List featured players, performers, presenters or other on-screen personnel.
 > Principal cast credits include: Jean Duceppe (l'oncle Antoine), Olivette Thibault (la femme d'Antoine), Claude Jutra (Fernand), Hélène Loiselle (Mme Poulin), Lionel Villeneuve (Jos Poulin), Monique Mercure (Alexandrine)
 
 ### 7.8B6. Attribution and conjectures. 
-Make notes on creators as instructed in 1.8B6.
+Make notes on creators as instructed in [1.8B6.](https://communityrad.ca/1-8/#18b6-attributions-and-conjectures)
 
 ### 7.8B7. Edition. 
-Make notes relating to the edition as instructed in 1.8B7.
+Make notes relating to the edition as instructed in [1.8B7.](https://communityrad.ca/1-8/#18b7-edition)
 
 > The series was updated in 1993 to reflect the evolution of computer technology
 > 
 > An abridged version was released in 1982
 
 ### 7.8B8. Date(s) of creation, including publication, distribution, etc. 
-Make notes on dates as instructed in 1.8B8.
+Make notes on dates as instructed in [1.8B8.](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc)
 
 > The answer print was first approved January 22, 1971 but for legal and political reasons the NFB delayed the release for six years
 > 
 > Recorded on May 24, 1978 for broadcast of June 24, 1978
 
 #### 7.8B8a. Date(s) of accumulation. 
-Make notes as instructed in 1.8B8a.
+Make notes as instructed in [1.8B8a.](https://communityrad.ca/1-8/#18b8a-dates-of-accumulation-or-collection)
 
 ### 7.8B9. Physical description. 
-Make notes relating to the physical description as instructed in 1.8B9.
+Make notes relating to the physical description as instructed in [1.8B9.](https://communityrad.ca/1-8/#18b9-physical-description)
 
 > Track 1 : English sound track; track 2 : French dubbed sound track; track 3 : voice-over commentary by the film's director
 > 
@@ -118,7 +116,7 @@ Make notes to distinguish between different generations of material.
 > Preservation master printed from original A/B rolls and 16mm magnetic final mix
 
 #### 7.8B9a. Physical condition. 
-Make notes on the physical condition of the unit being described, including any containers and/or labels as instructed in 1.8B9a.
+Make notes on the physical condition of the unit being described, including any containers and/or labels as instructed in [1.8B9a.](https://communityrad.ca/1-8/#18b9a-physical-condition)
 
 > Perforations damaged during earlier projections
 > 
@@ -141,57 +139,58 @@ Make notes when the unit being described is incomplete.
 > Episodes 8 and 10 of 12 are missing
 
 #### 7.8B9b. Conservation. 
-Make notes on any specific conservation treatment as instructed in 1.8B9b.
+Make notes on any specific conservation treatment as instructed in [1.8B9b.](https://communityrad.ca/1-8/#18b9b-conservation)
 
 > Perforations have been repaired
 > 
 > Cleaned ultrasonically
 
 #### 7.8B9c. Accompanying material. 
-Make notes on accompanying material as instructed in 1.8B9c.
+Make notes on accompanying material as instructed in [1.8B9c.](https://communityrad.ca/1-8/#18b9c-accompanying-material)
 
 > Issued with a pamphlet (11 p. : ill. ; 30 x 30 cm)
 > 
 > Accompagné de photographies et d'un guide pédagogique
 
 ### 7.8B10. Publisher's series. 
-Make notes on important details of publisher's series as instructed in 1.8B10.
+Make notes on important details of publisher's series as instructed in [1.8B10.](https://communityrad.ca/1-8/#18b10-publishers-series)
 
 ### 7.8B11. Alpha-numeric designations. 
-Make a note of any important numbers borne by the unit as instructed in 1.8B11.
+Make a note of any important numbers borne by the unit as instructed in [1.8B11.](https://communityrad.ca/1-8/#18b11-alpha-numeric-designations)
 
 ### 7.8B12. Immediate source of acquisition. 
-Record the donor or source of acquisition as instructed in 1.8B12.
+Record the donor or source of acquisition as instructed in [1.8B12.](https://communityrad.ca/1-8/#18b12-immediate-source-of-acquisition)
 
 > Donated by Evelyn Cherry
 > 
 > Acquis directement du créateur en novembre 1979
 
 ### 7.8B13. Arrangement. 
-Make notes on the arrangement as instructed in 1.8B13.
+Make notes on the arrangement as instructed in [1.8B13.](https://communityrad.ca/1-8/#18b13-arrangement)
 
 ### 7.8B14. Language. 
-Make notes on the language as instructed in 1.8B14.
+Make notes on the language as instructed in [1.8B14.](https://communityrad.ca/1-8/#18b14-language)
 
 > Japanese film dubbed into English and subtitled in French
+> 
 > Il existe un mix final espagnol seulement. Aucune copie finale n'a été produite
 
 ### 7.8B15. Originals and reproductions
 
 #### 7.8B15a. Location of originals. 
-Make notes on the location of the original material as instructed in 1.8B15a.
+Make notes on the location of the original material as instructed in [1.8B15a.](https://communityrad.ca/1-8/#18b15a-location-of-originals)
 
 > Original recording held by television station CFTO
 > 
 > Original printing elements held by Archives nationales du Québec
 
 #### 7.8B15b. Availability of other formats. 
-Make notes on the availability of other formats as instructed in 1.8B15b.
+Make notes on the availability of other formats as instructed in [1.8B15b.](https://communityrad.ca/1-8/#18b15b-availability-of-other-formats)
 
 > Available as a videocassette reference copy
 
 ### 7.8B16. Restrictions on access, use, reproduction, and publication.
-Make notes as instructed in 1.8B16.
+Make notes as instructed in [1.8B16.](https://communityrad.ca/1-8/#18b16-restrictions-on-access-use-reproduction-and-publication-)
 
 > Restricted: Donor's written permission required to view
 > 
@@ -210,7 +209,7 @@ Make notes as instructed in 1.8B16.
 > Restricted: Re-sale is forbidden without written permission of the donor's estate
 
 ### 7.8B17. Finding aids. 
-Make notes on finding aids as instructed in 1.8B17.
+Make notes on finding aids as instructed in [1.8B17.](https://communityrad.ca/1-8/#18b17-finding-aids)
 
 > Notes descriptives rédigées par René Blanchet sur ses films
 > 
@@ -219,21 +218,21 @@ Make notes on finding aids as instructed in 1.8B17.
 > Donor's list of interviewees available
 
 ### 7.8B18. Associated material. 
-Make notes on associated material as instructed in 1.8B18.
+Make notes on associated material as instructed in [1.8B18.](https://communityrad.ca/1-8/#18b18-associated-material)
 
 ### 7.8B19. Accruals. 
-Make notes as instructed in 1.8B19.
+Make notes as instructed in [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
 > Transferred from the National Film Board of Canada annually since 1981
 
 ### 7.8B20. Related group of records in different fonds. 
-Make notes regarding related groups of records as instructed in 1.8B20.
+Make notes regarding related groups of records as instructed in [1.8B20.](https://communityrad.ca/1-8/#18b20-related-groups-of-records-in-different-fonds-external-to-the-unit-being-described)
 
 #### 7.8B20a. Related groups of records within the same fonds. 
-Make notes regarding related groups of records within the same fonds as instructed in 1.8B20a.
+Make notes regarding related groups of records within the same fonds as instructed in [1.8B20a.](https://communityrad.ca/1-8/#18b20a-related-groups-of-records-within-the-same-fonds-series-or-collection)
 
 ### 7.8B21. General note. 
-Use this note to record any other descriptive information considered important as instructed in 1.8B21.
+Use this note to record any other descriptive information considered important as instructed in [1.8B21.](https://communityrad.ca/1-8/#18b21-general-note)
 
 > Legal and physical custody of this fonds is governed by an agreement (dated 1987-08-12) between the Canadian Broadcasting Corporation and the Provincial Archives of British Columbia
 > 
