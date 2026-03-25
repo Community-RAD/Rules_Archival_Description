@@ -13,7 +13,7 @@ toc_sticky: true
 The rules in this chapter cover the description of archival material on microform which constitute a fonds or a part thereof. Microforms include microfilms, microfiches, microopaques, and aperture cards. Use these rules in conjunction with the chapter(s) dealing with the broad class(es) of material relating to the intellectual form of the unit being described.[^1]
 
 ### 10.0A2 Multilevel description. 
-For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see 1.0A2.
+For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see [1.0A2.](https://communityrad.ca/1-0/#10a2-multilevel-description)
 
 ## 10.0B. Sources of information
 
