@@ -10,19 +10,19 @@ toc_sticky: true
 ## 8.5A. Preliminary rule
 
 ### 8.5A1. Scope
-See 1.5A1
+[See 1.5A1](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 8.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each occurrence of this area by a full stop, space, dash, space or start a new paragraph. [5]
-Precede other physical details by a colon.
-Separate each part of the description of other physical details by a comma, conjunction, or preposition.
-Precede dimensions by a semicolon.
-Precede each statement of accompanying material by a plus sign.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede each occurrence of this area by a full stop, space, dash, space or start a new paragraph. [5]\
+Precede other physical details by a colon.\
+Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
+Precede dimensions by a semicolon.\
+Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 8.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 8.5B. Extent of descriptive unit (including specific material designation)
 
@@ -31,24 +31,16 @@ At all levels of description, record the extent of the unit being described by g
 
 *Optionally,* if the general material designation is used, omit audio from the specific material designation unless it is needed to make the designation understandable (as with audio videocassette)
 
-> audio cartridge
->
-> audio cassette
->
-> audio compact disc
->
-> audio disc
->
-> audio reel
->
-> audio videocassette
->
-> cylinder recording
->
-> [instrument] roll
->
-> wire recording
->
++ audio cartridge
++ audio cassette
++ audio compact disc
++ audio disc
++ audio reel
++ audio videocassette
++ cylinder recording
++ [instrument] roll
++ wire recording
+
 > 12 audio cassettes
 >
 > 2 audio discs
@@ -73,25 +65,24 @@ Use [instrument] roll, as appropriate, for rolls.
 When the unit being described contains parts that fall into three or fewer special classes of material, give the physical extent, including the specific material designation for each special class of material.
 
 ### 8.5B3. 
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase and *other sound recordings* and describe the remaining material in a note (see 8.8B9). Omit other physical details and dimensions.
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase and *other sound recordings* and describe the remaining material in a note [(see 8.8B9)](https://communityrad.ca/8-8/#88b9-physical-description). Omit other physical details and dimensions.
 
-> 103 audio cassettes (ca. 120 hrs.) and other sound recordings
-> 
+> 103 audio cassettes (ca. 120 hrs.) and other sound recordings\
 > Note: Series also contains: 12 audio reels, 7 audio discs, 4 wire recordings
 
 *Optionally,* give the physical extent, including the specific material designation and duration for each special class of material.
 
 ### 8.5B4. Accruals. 
-When accruals are expected, give the physical extent as instructed in 1.5B4.
+When accruals are expected, give the physical extent as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4)
 
-> 225 audio reels (ca. 30 min. each)
-> 
+> 225 audio reels (ca. 30 min. each)\
 > Note: Accruals are expected
 
 ### 8.5B5. Duration. 
 Always give the playing time of the unit being described. If the precise duration is not known, estimate it.
 
 > 2 audio discs (1 hr., 20 min.)
+> 
 > 1 audio cassette (ca. 40 min.)
 
 ## 8.5C. Other physical details
@@ -102,8 +93,7 @@ At all levels of description, identify any physical details[7] other than extent
 ### 8.5C3. Playing speed. 
 Give the playing speed of the physical unit as follows:
 
-i) *Audio (cassettes and reels).* Give the playing speed of an analog tape in
-centimetres per second (cm/sec).[8]
+i) *Audio (cassettes and reels).* Give the playing speed of an analog tape in centimetres per second (cm/sec).[8]
 
 > 1 audio reel (30 min.) : 19 cm/sec.
 
@@ -204,10 +194,10 @@ Give the type of accompanying material as instructed in 1.5E. See also 8.8B9c.
 
 [5] This punctuation is repeated for each physical description.
 
-[6] This list of specific material designations is based on the physical carrier of the unit being described, i.e., the material or object which contains, supports or presents the sound recording. Institutions are encouraged to use the recommended list. However, if an institution chooses not to use this list it should, nevertheless, establish a policy regarding specific material designations.
+[6] This list of specific material designations is based on the physical carrier of the unit being described, i.e., the material or object which contains, supports or presents the sound recording. Institutions are encouraged to use the recommended list. However, if an institution chooses not to use this list it should, nevertheless, establish a policy regarding specific material designations.\
 The following source may be useful in defining additional specific material designations: "Audio Preservation: a Planning Study" (Association for Recorded Sound Collections, Associated Audio Archives Committee, 1988).
 
-[7] Table of Technical Specifications and Industry Norms for Sound Recordings*
+[7] Table of Technical Specifications and Industry Norms for Sound Recordings*\
 This table indicates which specifications apply to each type of sound recordings. Specifications which are applicable are marked A, those which are not applicable are marked N/A. If there is a norm for a specification and type of recording it follows letter A.
 
 | Specifications | Analogue disc 78 rpm | Disc other speeds | Digital disc | Reel | Cassette | Cartridge |
