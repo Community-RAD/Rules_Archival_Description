@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to the Community Rules for Archival Description (RAD), a project created by and for Canadian Archivists!"
+title: "Community Rules for Archival Description (RAD)"
 permalink: /
 show_recent_posts: false
 comments: false
@@ -9,7 +9,7 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-This website was created by Grace Phippard in 2026 as part of a project at the University of British Columbia. The primary objectives of this project are :
+Welcome to the Community Rules for Archival Description (RAD)! This website was created by Grace Phippard in 2026 as part of a project at the University of British Columbia. The primary objectives of this project are :
 1. To make RAD more accessible, easier to navigate, and easier to reference for anyone working with archives;
 2. To facilitative discourse about arrangement and descriptive practice;
 3. To generate suggestions for the revision of RAD through discussion that is open to everyone
