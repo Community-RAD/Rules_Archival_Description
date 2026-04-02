@@ -1,3 +1,4 @@
+---
 layout: single
 title: "7. ARCHIVAL DESCRIPTION AREA"
 permalink: /archival-description-area/
