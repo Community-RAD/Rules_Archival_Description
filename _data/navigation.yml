@@ -1,4 +1,6 @@
 main:
+  - title: "Revisions"
+    url: /archival-description-area/
   - title: "Browse by Chapter"
     url: /chapter/
   - title: "Browse by Section"
