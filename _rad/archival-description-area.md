@@ -32,6 +32,7 @@ Use a standard introductory word or phrase when uniformity of presentation assis
   <summary>Example scope and content note</summary>
 Scope and content: the final report, bound submissions and transcripts of proceedings, background printed materials and additional papers of the chair of the Committee on Securities Legislation, J.R. Kimber, respecting the implementation of recommendations and securities regulations
 </details>
+
 Give quotations taken from the unit being described or from other sources in quotation marks. Follow the quotation by an indication of its source. Do not use prescribed punctuation within quotations.
 
 #### 7.1D2. Informal presentation of information. 
