@@ -60,7 +60,7 @@ comments:
   enabled: true
   force: true
   giscus:
-    repo: "gphippard/Rules_Archival_Description"
+    repo: "Community-RAD/Rules_Archival_Description"
     repo_id: "R_kgDONMFzow"
     category: "General"
     category_id: "DIC_kwDONMFzo84C4p79"
