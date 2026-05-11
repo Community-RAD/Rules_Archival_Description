@@ -23,7 +23,7 @@ Although RAD2 is more than twenty years old (and older than the current version 
 
 ## Availability 
 
-RAD2 is no longer accessible online, but, if there is interest, in may be added to Community RAD in the future. A backgrounder describing RAD2 and comparing it to RAD (the first edition up to 2003) is available on this website, as well as a forum dedicated to RAD2. 
+RAD2 is no longer accessible online, but, if there is interest, in may be added to Community RAD in the future. A backgrounder describing RAD2 and comparing it to RAD (the first edition up to 2003) is available on this website, as well as a [forum dedicated to RAD2.](communityrad.ca/forums-rad2/)
 
 ## Structure
 
