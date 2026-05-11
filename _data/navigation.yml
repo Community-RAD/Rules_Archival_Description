@@ -311,6 +311,8 @@ forum-sidebar:
     children:
       - title: "Examples"
         url: /forums/examples/
+      - title: "RAD2"
+        url: /forums/rad2/
       - title: "Reconciliation and Indigenizing Archives"
         url: /forums/reconciliation/
       - title: "Site Recommendations"
@@ -318,6 +320,8 @@ forum-sidebar:
 
   - title: "Key Issues"
     children:
+      - title: "Artificial Intelligence (AI)"
+        url: /forums/ai/
       - title: "Participatory Archives"
         url: /forums/participatory/
       - title: "Provenance"
