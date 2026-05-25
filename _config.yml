@@ -16,6 +16,9 @@ collections:
   pages:
     output: true
     permalink: /:name/
+  rad2:
+    output: true
+    permalink: /:name/
 
 defaults:
   - scope:
