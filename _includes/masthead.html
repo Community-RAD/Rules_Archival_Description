@@ -23,13 +23,11 @@
             </li>
           {%- endfor -%}
         </ul>
-        {% if site.search == true %}
-        <div class="search__toggle-wrapper">
-          <button class="search__toggle" type="button">
-            <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
+            {% if site.search == true %}
+          <a class="search__toggle" href="{{ '/search/' | relative_url }}">
+            <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Search" }}</span>
             <i class="fas fa-search"></i>
-          </button>
-        </div>
+          </a>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
