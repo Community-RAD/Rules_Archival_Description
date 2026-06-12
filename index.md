@@ -15,7 +15,7 @@ Welcome to the Community Rules for Archival Description (RAD)! This website was 
 3. To generate suggestions for the revision of RAD through openly accessible and transparent discussions
 
 ## Navigating this Website
-On this website, you can [browse RAD by chapter](https://communityrad.ca/chapter/) (textual records, graphic materials etc.) or [browse by section](https://communityrad.ca/section/) (archival description area, notes area, etc.). You can also [search](https://communityrad.ca/search/) the website if you don’t know what part of RAD you are looking for. 
+On this website, you can [browse RAD 2008](https://communityrad.ca/rad-2008/) and read about [RAD 2](https://communityrad.ca/rad-2/), which was drafted and circulated in 2004 but never officially adopted by the CCA. You can also [search](https://communityrad.ca/search/) the website if you don’t know what part of RAD you are looking for. 
 
 Each section of RAD has a corresponding comment section, but there are also a number of [forums](https://communityrad.ca/forums/) dedicated to specific topics. Please see the below section on commenting for more information on how to comment
 
