@@ -1,12 +1,12 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "RAD 2008"
     url: /rad-2008/
   - title: "RAD2"
     url: /rad-2/
   - title: "Forums"
     url: /forums/
-  - title: "Search"
-    url: /search/
 
 sidebar-rad2:
   - title: "RAD2 Backgrounder"
