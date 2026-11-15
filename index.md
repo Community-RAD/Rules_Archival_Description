@@ -24,5 +24,5 @@ To comment on this site you will need a GitHub account. To create an account, al
 
 When you want to comment, sign-in to Github using your account credentials. When you comment, your GitHub username will be displayed and your account will be connected to any comments you make.
 
-More information about GitHub is included below, but all you need to comment on this website is an account. You do not need to use the GitHub platform or have a robust understanding of how it works to use this site, but guidance is provided for those who are interested. 
+More information about GitHub is included [here](https://communityrad.ca/about/#github), but all you need to comment on this website is an account. You do not need to use the GitHub platform or have a robust understanding of how it works to use this site, but guidance is provided for those who are interested. 
 
