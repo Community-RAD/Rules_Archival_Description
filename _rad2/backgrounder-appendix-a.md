@@ -122,7 +122,7 @@ indicates that RAD2 is more permissive about required vs. discretionary elements
     <td> </td>
   </tr>
   <tr>
-    <td>Title [Title proper]e</td>
+    <td>Title [Title proper]</td>
     <td>M</td>
     <td>M</td>
     <td>M</td>
